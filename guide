@@ -1,6 +1,6 @@
 http://daringfireball.net/projects/markdown/syntax
 http://www.liquidmarkup.org/
-|sed 's,<br/>$,,' |fmt -w 72 |sed 's,$,<br/>,'
+|sed 's,<br/>$,,' |fmt -w 62 |sed 's,$,<br/>,'
 |sort|uniq
 
 jekyll --server
@@ -8,7 +8,7 @@ ps -a | grep jekyll
 http://0.0.0.0:4000
 
 git status
-git commit -a -m 'Push first real version of user pages.'
+git commit -a -m 'Links should be emphasized, to be consistent.'
 git push origin master
 
 Instructions for setting up username.github.com *

@@ -1,0 +1,20 @@
+/home/jdc/git/catenate.github.com
+/usr/local/plan9/font/times/latin1.7a.font
+/home/jdc/opt/src/icons/icons.14.font
+  0.0000000  59.9218750
+w Newcol Kill Putall Dump acme.dump Exit 
+c          0 New Cut Paste Snarf Sort Zerox Delcol 
+c          1 New Cut Paste Snarf Sort Zerox Delcol 
+f          0           2           0           0   2.0697168 
+          2          56           6           1           0 /home/jdc/git/catenate.github.com/ Del Snarf Get | Look 
+F          1           0           0           0   2.0697168         222 
+          1          66         222           0           1 /home/jdc/git/catenate.github.com/guide Del Snarf Undo Put | Look 
+
+mkdir catenate.github.com
+  cd catenate.github.com
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:catenate/catenate.github.com.git
+  git push origin master

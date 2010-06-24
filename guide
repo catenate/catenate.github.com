@@ -8,7 +8,7 @@ ps -a | grep jekyll
 http://0.0.0.0:4000
 
 git status
-git commit -a -m 'Links should be emphasized, to be consistent.'
+git commit -a -m 'Add post title to page. Test hiding a post.'
 git push origin master
 
 Instructions for setting up username.github.com *

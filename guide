@@ -1,1 +1,71 @@
-Dump acme.dump
+http://daringfireball.net/projects/markdown/syntax
+http://www.liquidmarkup.org/
+|sed 's,<br/>$,,' |fmt -w 72 |sed 's,$,<br/>,'
+|sort|uniq
+
+jekyll --server
+ps -a | grep jekyll
+http://0.0.0.0:4000
+
+git status
+git commit -a -m 'Push first real version of user pages.'
+git push origin master
+
+Instructions for setting up username.github.com *
+  Create a repo named username.github.com
+  Push a `master` branch to GitHub and enjoy!
+Instructions for setting up username.github.com/repo-name *
+Caution: make your working directory clean before you do this (either stash or commit), otherwise this will lose any changes you've made to your project since the last commit.
+  cd /path/to/repo-name
+  git symbolic-ref HEAD refs/heads/gh-pages
+  rm .git/index
+  git clean -fdx
+  echo "My GitHub Page" > index.html
+  git add .
+  git commit -a -m "First pages commit"
+  git push origin gh-pages
+
+
+A basic Jekyll site usually looks something like this:
+
+New _config.yml
+mkdir _layouts
+New _layouts/default.html
+New _layouts/post.html
+mkdir _posts
+New _posts/2010-06-23-test.markdown
+New _site
+New index.html
+
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/variable.rb:/def render/
+old
+    def render(context)
+      return '' if @name.nil?
+      output = context[@name]
+      @filters.inject(output) do |output, filter|
+        filterargs = filter[1].to_a.collect do |a|
+         context[a]
+        end
+        begin
+          output = context.invoke(filter[0], output, *filterargs)
+        rescue FilterNotFound
+          raise FilterNotFound, "Error - filter '#{filter[0]}' in '#{@markup.strip}' could not be found."
+        end
+      end
+      output
+    end
+new from https://jadedpixel.lighthouseapp.com/projects/11053-liquid/tickets/11-ruby-19-compatibility
+|sed 's,^,    ,'
+    def render(context)
+      return '' if @name.nil?
+      @filters.inject(context[@name]) do |output, filter|
+        filterargs = filter[1].to_a.collect do |a|
+         context[a]
+        end
+        begin
+          context.invoke(filter[0], output, *filterargs)
+        rescue FilterNotFound
+          raise FilterNotFound, "Error - filter '#{filter[0]}' in '#{@markup.strip}' could not be found."
+        end
+      end
+    end

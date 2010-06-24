@@ -2,19 +2,1557 @@
 /usr/local/plan9/font/times/latin1.7a.font
 /home/jdc/opt/src/icons/icons.14.font
   0.0000000  59.9218750
-w Newcol Kill Putall Dump acme.dump Exit 
+w jekyll Newcol Kill Putall Dump acme.dump Exit 
 c          0 New Cut Paste Snarf Sort Zerox Delcol 
 c          1 New Cut Paste Snarf Sort Zerox Delcol 
-f          0           2           0           0   2.0697168 
-          2          56           6           1           0 /home/jdc/git/catenate.github.com/ Del Snarf Get | Look 
-F          1           0           0           0   2.0697168         222 
-          1          66         222           0           1 /home/jdc/git/catenate.github.com/guide Del Snarf Undo Put | Look 
+f          0           2          24          24   2.0697168 
+          2          56         116           1           0 /home/jdc/git/catenate.github.com/ Del Snarf Get | Look 
+f          0          57           0          19   4.1394336 
+         57          65          42           1           1 /home/jdc/git/catenate.github.com/_layouts/ Del Snarf Get | Look 
+f          0          53           0           0   6.2091503 
+         53          63          94           1           0 /home/jdc/git/catenate.github.com/_posts/ Del Snarf Get | Look 
+f          0          55          60         167   8.2788671 
+         55         144         167           0           0 /home/jdc/git/catenate.github.com/_posts/2010-06-24-dont-click-me.markdown Del Snarf Undo | Look 
+f          0          56          36          53  10.3485839 
+         56          95          76           0           0 /home/jdc/git/catenate.github.com/_posts/2010-06-24-second-test.markdown Del Snarf Undo | Look 
+f          0          54          50         539  12.4183007 
+         54         135         539           0           0 /home/jdc/git/catenate.github.com/_posts/2010-06-23-test.markdown Del Snarf Undo | Look 
+f          0          51           0           0  14.4880174 
+         51          60          11           1           0 /home/jdc/git/catenate.github.com/css/ Del Snarf Get | Look 
+f          0          12          83          83  16.5577342 
+         12          67         607           0           0 /home/jdc/git/catenate.github.com/index.html Del Snarf Undo | Look 
+f          0          52         267         267  98.1481481 
+         52          71         267           0           0 /home/jdc/git/catenate.github.com/css/screen.css Del Snarf Undo | Look 
+f          1           1         207         295   2.0697168 
+          1          62        2210           0           0 /home/jdc/git/catenate.github.com/guide Del Snarf Undo | Look 
+F          1           1       79515       79515  31.3725490       79515 
+          3          59       79515           0           1 /home/jdc/git/catenate.github.com/+Errors Del Snarf | Look 
+Initialized empty Git repository in /home/jdc/git/catenate.github.com/.git/
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   index.html
+#
+# Untracked files:
+#   (use "git add acme.dump guide
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   acme.dump
+#	new file:   guide
+#	new file:   index.html
+#
+[master (root-commit) 6b11b81] first commit
+ 2 files changed, 21 insertions(+), 0 deletions(-)
+ create mode 100644 acme.dump
+ create mode 100644 guide
+ create mode 100644 index.html
+To git@github.com:catenate/catenate.github.com.git
+ * [new branch]      master -> master
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   guide
+#
+# Untracked files:
+#   (use "git add README.md
+no changes added to commit (use "git add" and/or "git commit -a")
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   guide
+#
+# Untracked files:
+#   (use "git add README.md
+no changes added to commit (use "git add" and/or "git commit -a")
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   README.md
+#
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   guide
+#
+[master ac9bb71] add README.md to explain source code
+ 1 files changed, 1 insertions(+), 0 deletions(-)
+ create mode 100644 README.md
+To git@github.com:catenate/catenate.github.com.git
+   6b11b81..ac9bb71  master -> master
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   guide
+#	modified:   index.html
+#
+# Untracked files:
+#   (use "git add .gitignore _layouts _posts
+no changes added to commit (use "git add" and/or "git commit -a")
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   .gitignore
+#	new file:   _layouts/default.html
+#	new file:   _layouts/post.html
+#	new file:   _posts/2010-06-23-test.markdown
+#
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   guide
+#	modified:   index.html
+#
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+WARNING: Could not read configuration. Using defaults (and options).
+	No such file or directory - /home/jdc/git/catenate.github.com/_config.yml
+[2010-06-23 23:35:29] INFO  WEBrick 1.3.1
+[2010-06-23 23:35:29] INFO  ruby 1.9.1 (2010-01-10) [x86_64-linux]
+[2010-06-23 23:35:34] INFO  WEBrick::HTTPServer#start: pid=26661 port=4000
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   .gitignore
+#	new file:   _layouts/default.html
+#	new file:   _layouts/post.html
+#	new file:   _posts/2010-06-23-test.markdown
+#
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   guide
+#	modified:   index.html
+#
+# Untracked files:
+#   (use "git add _config.yml
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   .gitignore
+#	new file:   _config.yml
+#	new file:   _layouts/default.html
+#	new file:   _layouts/post.html
+#	new file:   _posts/2010-06-23-test.markdown
+#
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   guide
+#	modified:   index.html
+#
+ps: exit 1
+root       1 Jun-19   0:00    1344K poll_s init
+root       2 Jun-19   0:00       0K kthrea [kthreadd]
+root       3 Jun-19   0:00       0K migrat 0]
+root       4 Jun-19   0:49       0K ksofti 0]
+root       5 Jun-19   0:00       0K watchd 0]
+root       6 Jun-19   0:00       0K migrat 1]
+root       7 Jun-19   0:40       0K ksofti 1]
+root       8 Jun-19   0:00       0K watchd 1]
+root       9 Jun-19   0:00       0K worker 0]
+root      10 Jun-19   0:01       0K worker 1]
+root      11 Jun-19   0:00       0K worker [cpuset]
+root      12 Jun-19   0:00       0K worker [khelper]
+root      13 Jun-19   0:00       0K worker [netns]
+root      14 Jun-19   0:00       0K async_ mgr]
+root      15 Jun-19   0:00       0K worker [pm]
+root      17 Jun-19   0:00       0K bdi_sy [sync_supers]
+root      18 Jun-19   0:00       0K bdi_fo [bdi-default]
+root      19 Jun-19   0:00       0K worker 0]
+root      20 Jun-19   0:00       0K worker 1]
+root      21 Jun-19   0:00       0K worker 0]
+root      22 Jun-19   0:00       0K worker 1]
+root      23 Jun-19   0:00       0K worker [kacpid]
+root      24 Jun-19   0:00       0K worker [kacpi_notify]
+root      25 Jun-19   0:00       0K worker [kacpi_hotplug]
+root      26 Jun-19   0:00       0K worker 0]
+root      27 Jun-19   0:00       0K worker 1]
+root      28 Jun-19   0:00       0K worker [ata_aux]
+root      29 Jun-19   0:00       0K worker [ksuspend_usbd]
+root      30 Jun-19   0:00       0K hub_th [khubd]
+root      31 Jun-19   0:00       0K serio_ [kseriod]
+root      32 Jun-19   0:00       0K worker [kmmcd]
+root      35 Jun-19   0:00       0K watchd [khungtaskd]
+root      36 Jun-19   0:02       0K kswapd [kswapd0]
+root      37 Jun-19   0:00       0K ksm_sc [ksmd]
+root      38 Jun-19   0:00       0K worker 0]
+root      39 Jun-19   0:00       0K worker 1]
+root      40 Jun-19   0:00       0K ecrypt [ecryptfs-kthrea]
+root      41 Jun-19   0:00       0K worker 0]
+root      42 Jun-19   0:00       0K worker 1]
+root      45 Jun-19   0:00       0K worker [kstriped]
+root      46 Jun-19   0:00       0K worker 0]
+root      47 Jun-19   0:00       0K worker 1]
+root      48 Jun-19   0:00       0K worker [kmpath_handlerd]
+root      49 Jun-19   0:00       0K worker [ksnapd]
+root      50 Jun-19   0:00       0K worker 0]
+root      51 Jun-19   0:06       0K worker 1]
+root      52 Jun-19   0:00       0K worker 0]
+root      53 Jun-19   0:00       0K worker 1]
+root     211 Jun-19   0:00       0K scsi_e [scsi_eh_0]
+root     236 Jun-19   0:00       0K scsi_e [scsi_eh_1]
+root     242 Jun-19   0:00       0K hpsbpk [khpsbpkt]
+root     266 Jun-19   0:00       0K scsi_e [scsi_eh_2]
+root     282 Jun-19   0:37       0K scsi_e [scsi_eh_3]
+root     287 Jun-19   0:00       0K scsi_e [scsi_eh_4]
+root     290 Jun-19   0:00       0K scsi_e [scsi_eh_5]
+root     293 Jun-19   0:00       0K nodemg [knodemgrd_0]
+root     318 Jun-19   0:00       0K scsi_e [scsi_eh_6]
+root     319 Jun-19   2:59       0K usb_st [usb-storage]
+root     322 Jun-19   0:13       0K kjourn [kjournald]
+root     339 Jun-19   0:00       0K bdi_wr [flush-8:0]
+root     387 Jun-19   0:00     632K poll_s upstart-udev-bridge
+root     408 Jun-19   0:00     280K poll_s udevd
+root     695 Jun-19   0:00       0K worker [kpsmoused]
+root     729 Jun-19   0:34       0K worker [phy0]
+syslog   737 Jun-19   0:00    1152K poll_s rsyslogd
+108      805 Jun-19   0:40    1904K poll_s dbus-daemon
+root     813 Jun-19   0:00       0K worker [hd-audio0]
+root     830 Jun-19   0:01    2112K poll_s gdm-binary
+root     842 Jun-19   0:00     316K poll_s sshd
+root     860 Jun-19   0:26    2384K poll_s NetworkManager
+avahi    865 Jun-19   0:00    1336K poll_s avahi-daemon
+avahi    866 Jun-19   0:00     200K unix_s avahi-daemon
+root     870 Jun-19   0:00    1636K poll_s modem-manager
+root     882 Jun-19   0:00    1856K poll_s console-kit-daemon
+root     959 Jun-19   0:03    1056K poll_s wpa_supplicant
+root     960 Jun-19   0:00     616K poll_s dhclient
+root     970 Jun-19   0:00    1824K poll_s gdm-simple-slave
+root    1038 Jun-19  27:09   75212K poll_s X
+root    1079 Jun-19   0:00     388K n_tty_ getty
+root    1086 Jun-19   0:00     388K n_tty_ getty
+root    1099 Jun-19   0:00     388K n_tty_ getty
+root    1100 Jun-19   0:00     388K n_tty_ getty
+root    1102 Jun-19   0:00     388K n_tty_ getty
+root    1103 Jun-19   0:00     412K poll_s acpid
+root    1107 Jun-19   0:00     624K hrtime cron
+daemon  1108 Jun-19   0:00     244K hrtime atd
+jdc     1303 Jun-22   0:26   66776K futex_ chrome
+jdc     1388 Jun-22  19:23   41252K futex_ chrome
+112     1400 Jun-19   0:00     484K poll_s exim4
+gdm     1463 Jun-19   0:00     416K poll_s dbus-launch
+jdc     1480 Jun-22   0:03   20668K futex_ chrome
+root    1561 Jun-19   0:00    1832K poll_s upowerd
+root    1574 Jun-19   0:00    2556K poll_s polkitd
+root    1609 Jun-19   0:00    1632K poll_s gdm-session-worker
+111     1614 Jun-19   0:00    2404K poll_s hald
+root    1615 Jun-19   0:00    1056K poll_s hald-runner
+rtkit   1620 Jun-19   0:01     832K poll_s rtkit-daemon
+root    1649 Jun-19   0:02     960K poll_s hald-addon-input
+root    1651 Jun-19   0:00     804K poll_s hald-addon-rfkill-killswitch
+root    1652 Jun-19   0:00     804K poll_s hald-addon-leds
+jdc     1659 Jun-21   0:00     408K wait   sh
+jdc     1660 Jun-21 466:38   74820K hrtime python
+root    1684 Jun-19   0:07     936K poll_s hald-addon-storage
+root    1685 Jun-19   0:07     928K poll_s hald-addon-storage
+root    1686 Jun-19   0:07     924K poll_s hald-addon-storage
+root    1687 Jun-19   0:06     936K poll_s hald-addon-storage
+root    1688 Jun-19   0:10     940K poll_s hald-addon-storage
+root    1689 Jun-19   0:00     808K poll_s hald-addon-cpufreq
+root    1692 Jun-19   0:00     388K n_tty_ getty
+111     1693 Jun-19   0:00     808K unix_s hald-addon-acpi
+jdc     1707 Jun-19   0:00    9304K poll_s gnome-keyring-daemon
+jdc     1725 Jun-19   0:00    7368K poll_s gnome-session
+jdc     1772 Jun-19   0:00    3368K poll_s seahorse-agent
+jdc     1775 Jun-19   0:00     416K poll_s dbus-launch
+jdc     1776 Jun-19   0:02    1652K poll_s dbus-daemon
+jdc     1779 Jun-19   0:07    5268K poll_s gconfd-2
+jdc     1786 Jun-19   0:19   11592K poll_s gnome-settings-daemon
+jdc     1788 Jun-19   0:00    1720K poll_s gvfsd
+jdc     1794 Jun-19   0:00    1484K futex_ gvfs-fuse-daemon
+jdc     1798 Jun-19   0:54    8584K poll_s metacity
+jdc     1801 Jun-19  78:29    9104K poll_s pulseaudio
+jdc     1806 Jun-19   0:10    3400K poll_s trackerd
+jdc     1807 Jun-19   0:02    4520K poll_s gnome-power-manager
+jdc     1808 Jun-19   0:00    4276K poll_s bluetooth-applet
+jdc     1811 Jun-19   0:00    3904K poll_s tracker-applet
+jdc     1813 Jun-19   0:00    3260K poll_s polkit-gnome-authentication-agent-1
+jdc     1816 Jun-19   0:00    6272K poll_s nm-applet
+jdc     1823 Jun-19   1:59   22188K poll_s nautilus
+jdc     1824 Jun-19   0:17   13416K poll_s gnome-panel
+jdc     1828 Jun-19   0:00    1564K poll_s gconf-helper
+jdc     1837 Jun-19   1:29   57032K poll_s dropbox
+jdc     1843 Jun-19   0:00    1384K poll_s xfconfd
+jdc     1851 Jun-19   0:00    2864K poll_s gvfs-gdu-volume-monitor
+root    1853 Jun-19   0:09    2728K poll_s udisks-daemon
+root    1854 Jun-19   1:42     788K poll_s udisks-daemon
+jdc     1856 Jun-19   0:12    1552K poll_s gvfs-afc-volume-monitor
+jdc     1859 Jun-19   0:00    1664K poll_s gvfs-gphoto2-volume-monitor
+jdc     1861 Jun-22   0:00    1200K poll_s plumber
+jdc     1863 Jun-22   0:00     824K poll_s 9pserve
+jdc     1867 Jun-19   0:00    2068K poll_s gvfsd-trash
+jdc     1868 Jun-19   0:01    2368K poll_s gnome-screensaver
+jdc     1870 Jun-19   0:00    1652K poll_s bonobo-activation-server
+jdc     1879 Jun-19   0:00    6300K poll_s trashapplet
+jdc     1880 Jun-19   1:41   11196K poll_s wnck-applet
+jdc     1887 Jun-19   0:00    8440K poll_s indicator-applet
+jdc     1890 Jun-19   0:00    8220K poll_s indicator-applet-session
+jdc     1894 Jun-19   0:12    8948K poll_s clock-applet
+jdc     1896 Jun-19   0:00    5040K poll_s notification-area-applet
+jdc     1902 Jun-22   0:06   30728K futex_ chrome
+jdc     1904 Jun-19   0:00    1704K poll_s gvfsd-metadata
+jdc     1906 Jun-19   0:00    2660K poll_s indicator-session-service
+jdc     1908 Jun-19   0:01    2624K poll_s indicator-me-service
+jdc     1909 Jun-19   0:00    4472K poll_s gdu-notification-daemon
+jdc     1915 Jun-19   0:00    2536K poll_s indicator-application-service
+jdc     1919 Jun-19   0:00    2372K poll_s indicator-sound-service
+jdc     1924 Jun-19   0:00    1520K poll_s gvfsd-burn
+jdc     1931 Jun-19   0:00    2292K poll_s indicator-messages-service
+jdc     1960 Jun-19   0:00    8696K poll_s notify-osd
+jdc     1973 Jun-19   0:00    3144K poll_s tracker-indexer
+jdc     1976 Jun-19   0:00    4368K poll_s evolution-alarm-notify
+jdc     1977 Jun-19   0:00    4828K poll_s python
+jdc     1983 Jun-19   0:00    3872K poll_s evolution-exchange-storage
+jdc     1987 Jun-19   0:00    2836K poll_s evolution-data-server-2.28
+jdc     2048 Jun-19   0:05    6388K poll_s update-notifier
+root    2085 Jun-19   0:00    1852K poll_s python
+jdc     2093 Jun-22   6:43   33672K futex_ chrome
+jdc     2210 Jun-22   0:51   11944K futex_ chrome
+jdc     2225 Jun-22   0:07   23684K futex_ chrome
+jdc     2233 Jun-22   0:09   27904K futex_ chrome
+jdc     2373 Jun-19  36:35   86164K poll_s google-chrome
+jdc     2376 Jun-19   0:17    2532K poll_s google-chrome
+jdc     2378 Jun-19   0:00    3288K skb_re chrome
+jdc     2670 Jun-22   0:46   14312K futex_ chrome
+jdc     2689 Jun-22   0:02   17732K futex_ chrome
+jdc     2805 Jun-19   0:04   13056K poll_s gnome-terminal
+jdc     2806 Jun-19   0:00     584K unix_s gnome-pty-helper
+jdc     2807 Jun-19   0:00     720K n_tty_ bash
+jdc     3252 Jun-22   0:00    2196K n_tty_ bash
+jdc     3652 Jun-22   0:19   31160K futex_ chrome
+jdc     4023 Jun-22  30:15 1147448K futex_ chrome
+jdc     5212  00:18   0:07   30328K futex_ chrome
+jdc     5310  00:23   1:52   29580K futex_ chrome
+jdc     5413  00:27   0:07   29320K futex_ chrome
+jdc     5645  00:38   2:55   48832K futex_ chrome
+jdc     8509 Jun-19   0:07    9640K futex_ chrome
+jdc    10488 Jun-21   0:00    3428K n_tty_ bash
+jdc    11082 Jun-19   0:28   13744K futex_ chrome
+jdc    11141 Jun-19   1:11   26328K futex_ chrome
+jdc    11576 Jun-19   1:08   70880K futex_ chrome
+jdc    12293 Jun-19   0:06    6788K poll_s evince
+jdc    12295 Jun-19   0:00    1572K poll_s evinced
+root   12739  09:33   0:00     316K poll_s udevd
+root   12740  09:33   0:00     264K poll_s udevd
+jdc    13540 Jun-21  13:33   29356K futex_ chrome
+jdc    14146 Jun-21  11:58   37860K futex_ chrome
+jdc    14294 Jun-21   0:06   16976K futex_ chrome
+jdc    14599 Jun-21   2:25   71120K futex_ chrome
+jdc    14625 Jun-21   0:19   32824K futex_ chrome
+jdc    14633 Jun-21   0:03   10820K futex_ chrome
+jdc    14712 Jun-21   0:01   23724K futex_ chrome
+jdc    14930 Jun-21   0:17   26752K futex_ chrome
+jdc    14999 Jun-21   4:30  262620K futex_ chrome
+jdc    18610 Jun-19   0:10    7036K poll_s evince
+jdc    20511 Jun-20   0:18   20356K futex_ chrome
+jdc    20531 Jun-20   0:05   43900K poll_s evince
+jdc    21353 Jun-20   0:15   87044K futex_ chrome
+root   24331 Jun-22   0:00    1800K ep_pol cupsd
+jdc    25539  22:50   0:18   70044K futex_ chrome
+jdc    25818  23:04   0:02   27428K futex_ chrome
+jdc    25976  23:10   0:22   53324K poll_s chrome
+jdc    26088  23:12   0:08   64880K futex_ chrome
+jdc    26128  23:15   0:06   45304K futex_ chrome
+jdc    26207  23:17   0:00     576K pipe_w acme
+jdc    26210  23:17   0:02    1764K futex_ acme
+jdc    26211  23:17   0:02    6608K poll_s acme
+jdc    26216  23:17   0:00     948K poll_s 9pserve
+jdc    26661  23:35   0:00   24564K futex_ ruby1.9.1
+jdc    26730  23:36   0:00     624K wait   sh
+jdc    26733  23:36   0:00    1200K Ready  ps
+jdc    26734  23:36   0:00     596K pipe_w sed
+jdc    26735  23:36   0:00    1016K pipe_w awk
+jdc    26736  23:36   0:00     560K pipe_w sort
+jdc    26799 Jun-20   0:16   28140K futex_ chrome
+jdc    31904 Jun-21 195:37  164732K poll_s TweetDeck
+jdc    32042 Jun-21   0:33  120044K futex_ chrome
+jdc    32425 Jun-22   4:50   61484K futex_ chrome
+jdc    32501 Jun-21  26:14  105676K hrtime python
+jdc    26661  23:35   0:00   24564K futex_ /usr/bin/ruby1.9.1 /home/jdc/.gem/ruby/1.9.1/bin/jekyll --server
+jdc    26744  23:36   0:00     748K wait   rc -c ps -a | grep jekyll?
+jdc    26746  23:36   0:00     532K pipe_w grep jekyll
+localhost - - [23/Jun/2010:23:37:09 CDT] "GET / HTTP/1.1" 200 0
+- -> /
+[2010-06-23 23:37:09] ERROR `/favicon.ico' not found.
+localhost - - [23/Jun/2010:23:37:09 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+WARNING: Could not read configuration. Using defaults (and options).
+	Invalid configuration - /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> /home/jdc/git/catenate.github.com/_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> /home/jdc/git/catenate.github.com/_site
+localhost - - [23/Jun/2010:23:38:47 CDT] "GET / HTTP/1.1" 200 28
+- -> /
+[2010-06-23 23:38:47] ERROR `/favicon.ico' not found.
+localhost - - [23/Jun/2010:23:38:47 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [23/Jun/2010:23:38:50 CDT] "GET / HTTP/1.1" 304 0
+- -> /
+[2010-06-23 23:38:50] ERROR `/favicon.ico' not found.
+localhost - - [23/Jun/2010:23:38:50 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+[2010-06-23 23:43:07] INFO  WEBrick 1.3.1
+[2010-06-23 23:43:07] INFO  ruby 1.9.1 (2010-01-10) [x86_64-linux]
+[2010-06-23 23:43:12] WARN  TCPServer Error: Address already in use - bind(2)
+/usr/lib/ruby/1.9.1/webrick/utils.rb:73:in `initialize': Address already in use - bind(2) (Errno::EADDRINUSE)
+	from /usr/lib/ruby/1.9.1/webrick/utils.rb:73:in `new'
+	from /usr/lib/ruby/1.9.1/webrick/utils.rb:73:in `block in create_listeners'
+	from /usr/lib/ruby/1.9.1/webrick/utils.rb:70:in `each'
+	from /usr/lib/ruby/1.9.1/webrick/utils.rb:70:in `create_listeners'
+	from /usr/lib/ruby/1.9.1/webrick/server.rb:74:in `listen'
+	from /usr/lib/ruby/1.9.1/webrick/server.rb:62:in `initialize'
+	from /usr/lib/ruby/1.9.1/webrick/httpserver.rb:24:in `initialize'
+	from /home/jdc/.gem/ruby/1.9.1/gems/jekyll-0.6.1/bin/jekyll:167:in `new'
+	from /home/jdc/.gem/ruby/1.9.1/gems/jekyll-0.6.1/bin/jekyll:167:in `<top (required)>'
+	from /home/jdc/.gem/ruby/1.9.1/bin/jekyll:19:in `load'
+	from /home/jdc/.gem/ruby/1.9.1/bin/jekyll:19:in `<main>'
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-23 23:43:07] regeneration: 8 files changed
+jekyll: exit 1
+localhost - - [23/Jun/2010:23:43:29 CDT] "GET / HTTP/1.1" 200 29
+- -> /
+[2010-06-23 23:43:29] ERROR `/favicon.ico' not found.
+localhost - - [23/Jun/2010:23:43:29 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [23/Jun/2010:23:43:49 CDT] "GET / HTTP/1.1" 304 0
+- -> /
+[2010-06-23 23:43:49] ERROR `/favicon.ico' not found.
+localhost - - [23/Jun/2010:23:43:49 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+localhost - - [23/Jun/2010:23:45:34 CDT] "GET / HTTP/1.1" 200 36
+- -> /
+[2010-06-23 23:45:34] ERROR `/favicon.ico' not found.
+localhost - - [23/Jun/2010:23:45:34 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+<title>Jason Catena</title>
+Jason Catena
 
-mkdir catenate.github.com
-  cd catenate.github.com
-  git init
-  touch README
-  git add README
-  git commit -m 'first commit'
-  git remote add origin git@github.com:catenate/catenate.github.com.git
-  git push origin master
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+localhost - - [23/Jun/2010:23:49:45 CDT] "GET / HTTP/1.1" 200 66
+- -> /
+[2010-06-23 23:49:45] ERROR `/favicon.ico' not found.
+localhost - - [23/Jun/2010:23:49:45 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+localhost - - [23/Jun/2010:23:51:05 CDT] "GET / HTTP/1.1" 200 64
+- -> /
+[2010-06-23 23:51:05] ERROR `/favicon.ico' not found.
+localhost - - [23/Jun/2010:23:51:05 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+localhost - - [23/Jun/2010:23:55:36 CDT] "GET / HTTP/1.1" 200 110
+- -> /
+[2010-06-23 23:55:36] ERROR `/favicon.ico' not found.
+localhost - - [23/Jun/2010:23:55:36 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+localhost - - [23/Jun/2010:23:58:03 CDT] "GET / HTTP/1.1" 200 110
+- -> /
+[2010-06-23 23:58:03] ERROR `/favicon.ico' not found.
+localhost - - [23/Jun/2010:23:58:03 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+localhost - - [23/Jun/2010:23:58:31 CDT] "GET / HTTP/1.1" 200 120
+- -> /
+[2010-06-23 23:58:31] ERROR `/favicon.ico' not found.
+localhost - - [23/Jun/2010:23:58:31 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+localhost - - [24/Jun/2010:00:06:53 CDT] "GET / HTTP/1.1" 200 106
+- -> /
+[2010-06-24 00:06:53] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:06:53 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+localhost - - [24/Jun/2010:00:11:16 CDT] "GET / HTTP/1.1" 200 136
+- -> /
+[2010-06-24 00:11:16] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:11:16 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+localhost - - [24/Jun/2010:00:14:41 CDT] "GET / HTTP/1.1" 200 206
+- -> /
+[2010-06-24 00:14:41] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:14:41 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+localhost - - [24/Jun/2010:00:15:42 CDT] "GET / HTTP/1.1" 200 272
+- -> /
+[2010-06-24 00:15:42] ERROR `/css/syntax.css' not found.
+localhost - - [24/Jun/2010:00:15:42 CDT] "GET /css/syntax.css HTTP/1.1" 404 282
+Referer -> /css/syntax.css
+[2010-06-24 00:15:42] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:15:42 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+grep: read error on .git: Is a directory
+grep: read error on _layouts: Is a directory
+grep: read error on _posts: Is a directory
+grep: read error on _site: Is a directory
+grep: read error on css: Is a directory
+grep: read error on .git/branches: Is a directory
+grep: read error on .git/hooks: Is a directory
+grep: read error on .git/info: Is a directory
+grep: read error on .git/logs: Is a directory
+grep: read error on .git/objects: Is a directory
+grep: read error on .git/refs: Is a directory
+grep: read error on _site/2010: Is a directory
+grep: read error on _site/css: Is a directory
+grep: exit 1
+grep: read error on .git/logs/refs: Is a directory
+grep: read error on .git/objects/63: Is a directory
+grep: read error on .git/objects/6b: Is a directory
+grep: read error on .git/objects/79: Is a directory
+grep: read error on .git/objects/7f: Is a directory
+grep: read error on .git/objects/93: Is a directory
+grep: read error on .git/objects/ac: Is a directory
+grep: read error on .git/objects/ca: Is a directory
+grep: read error on .git/objects/d1: Is a directory
+grep: read error on .git/objects/d9: Is a directory
+grep: read error on .git/objects/e6: Is a directory
+grep: read error on .git/objects/info: Is a directory
+grep: read error on .git/objects/pack: Is a directory
+grep: read error on .git/refs/heads: Is a directory
+grep: read error on .git/refs/remotes: Is a directory
+grep: read error on .git/refs/tags: Is a directory
+grep: read error on _site/2010/06: Is a directory
+grep: read error on .git: Is a directory
+grep: read error on _layouts: Is a directory
+grep: read error on _posts: Is a directory
+grep: read error on _site: Is a directory
+grep: read error on css: Is a directory
+grep: read error on .git/branches: Is a directory
+grep: read error on .git/hooks: Is a directory
+grep: read error on .git/info: Is a directory
+grep: read error on .git/logs: Is a directory
+grep: read error on .git/objects: Is a directory
+grep: read error on .git/refs: Is a directory
+grep: read error on _site/2010: Is a directory
+grep: read error on _site/css: Is a directory
+grep: read error on .git/logs/refs/heads: Is a directory
+grep: read error on .git/logs/refs/remotes: Is a directory
+grep: read error on .git/refs/remotes/origin: Is a directory
+grep: exit 1
+grep: read error on _site/2010/06/23: Is a directory
+grep: read error on _site/2010/06/test: Is a directory
+grep: read error on .git: Is a directory
+grep: read error on _layouts: Is a directory
+grep: read error on _posts: Is a directory
+grep: read error on _site: Is a directory
+grep: read error on css: Is a directory
+grep: read error on .git/branches: Is a directory
+grep: read error on .git/hooks: Is a directory
+grep: read error on .git/info: Is a directory
+grep: read error on .git/logs: Is a directory
+grep: read error on .git/objects: Is a directory
+grep: read error on .git/refs: Is a directory
+grep: read error on _site/2010: Is a directory
+grep: read error on _site/css: Is a directory
+grep: read error on .git/logs/refs/remotes/origin: Is a directory
+grep: exit 1
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-24 00:18:50] regeneration: 10 files changed
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-24 00:11:13] regeneration: 8 files changed
+[2010-06-24 00:14:09] regeneration: 1 files changed
+[2010-06-24 00:14:21] regeneration: 1 files changed
+[2010-06-24 00:14:25] regeneration: 1 files changed
+[2010-06-24 00:15:31] regeneration: 1 files changed
+[2010-06-24 00:17:01] regeneration: 1 files changed
+[2010-06-24 00:18:49] regeneration: 1 files changed
+jekyll: exit signal: kill
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-23 23:50:42] regeneration: 8 files changed
+[2010-06-23 23:55:21] regeneration: 1 files changed
+[2010-06-23 23:57:58] regeneration: 1 files changed
+[2010-06-23 23:58:22] regeneration: 1 files changed
+[2010-06-24 00:10:59] regeneration: 1 files changed
+[2010-06-24 00:14:09] regeneration: 1 files changed
+[2010-06-24 00:14:21] regeneration: 1 files changed
+[2010-06-24 00:14:25] regeneration: 1 files changed
+[2010-06-24 00:15:31] regeneration: 1 files changed
+[2010-06-24 00:17:01] regeneration: 1 files changed
+[2010-06-24 00:18:49] regeneration: 1 files changed
+jekyll: exit signal: kill
+jekyll: exit signal: kill
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-23 23:49:35] regeneration: 8 files changed
+[2010-06-23 23:50:33] regeneration: 1 files changed
+[2010-06-23 23:55:22] regeneration: 1 files changed
+[2010-06-23 23:57:58] regeneration: 1 files changed
+[2010-06-23 23:58:23] regeneration: 1 files changed
+[2010-06-24 00:10:59] regeneration: 1 files changed
+[2010-06-24 00:14:09] regeneration: 1 files changed
+[2010-06-24 00:14:21] regeneration: 1 files changed
+[2010-06-24 00:14:25] regeneration: 1 files changed
+[2010-06-24 00:15:31] regeneration: 1 files changed
+[2010-06-24 00:17:01] regeneration: 1 files changed
+[2010-06-24 00:18:49] regeneration: 1 files changed
+jekyll: exit signal: kill
+jekyll: exit signal: kill
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-23 23:43:55] regeneration: 8 files changed
+[2010-06-23 23:44:46] regeneration: 1 files changed
+[2010-06-23 23:45:11] regeneration: 1 files changed
+[2010-06-23 23:48:37] regeneration: 1 files changed
+[2010-06-23 23:49:12] regeneration: 1 files changed
+[2010-06-23 23:50:32] regeneration: 1 files changed
+[2010-06-23 23:55:22] regeneration: 1 files changed
+[2010-06-23 23:57:58] regeneration: 1 files changed
+[2010-06-23 23:58:22] regeneration: 1 files changed
+[2010-06-24 00:10:59] regeneration: 1 files changed
+[2010-06-24 00:14:09] regeneration: 1 files changed
+[2010-06-24 00:14:21] regeneration: 1 files changed
+[2010-06-24 00:14:25] regeneration: 1 files changed
+[2010-06-24 00:15:31] regeneration: 1 files changed
+[2010-06-24 00:17:01] regeneration: 1 files changed
+[2010-06-24 00:18:49] regeneration: 1 files changed
+jekyll: exit signal: kill
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-23 23:55:23] regeneration: 8 files changed
+[2010-06-23 23:57:58] regeneration: 1 files changed
+[2010-06-23 23:58:22] regeneration: 1 files changed
+[2010-06-24 00:10:59] regeneration: 1 files changed
+[2010-06-24 00:14:09] regeneration: 1 files changed
+[2010-06-24 00:14:21] regeneration: 1 files changed
+[2010-06-24 00:14:25] regeneration: 1 files changed
+[2010-06-24 00:15:31] regeneration: 1 files changed
+[2010-06-24 00:17:01] regeneration: 1 files changed
+[2010-06-24 00:18:49] regeneration: 1 files changed
+jekyll: exit signal: kill
+jekyll: exit signal: kill
+jekyll: exit signal: kill
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-24 00:14:38] regeneration: 9 files changed
+[2010-06-24 00:15:31] regeneration: 1 files changed
+[2010-06-24 00:17:01] regeneration: 1 files changed
+[2010-06-24 00:18:49] regeneration: 1 files changed
+jekyll: exit signal: kill
+jekyll: exit signal: kill
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-23 23:45:12] regeneration: 8 files changed
+[2010-06-23 23:48:37] regeneration: 1 files changed
+[2010-06-23 23:49:12] regeneration: 1 files changed
+[2010-06-23 23:50:33] regeneration: 1 files changed
+[2010-06-23 23:55:22] regeneration: 1 files changed
+[2010-06-23 23:57:58] regeneration: 1 files changed
+[2010-06-23 23:58:23] regeneration: 1 files changed
+[2010-06-24 00:10:59] regeneration: 1 files changed
+[2010-06-24 00:14:10] regeneration: 1 files changed
+[2010-06-24 00:14:22] regeneration: 1 files changed
+[2010-06-24 00:14:25] regeneration: 1 files changed
+[2010-06-24 00:15:31] regeneration: 1 files changed
+[2010-06-24 00:17:01] regeneration: 1 files changed
+[2010-06-24 00:18:49] regeneration: 1 files changed
+jekyll: exit signal: kill
+jekyll: exit signal: kill
+jekyll: exit signal: kill
+jekyll: exit signal: kill
+jekyll: exit signal: kill
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-23 23:45:25] regeneration: 8 files changed
+[2010-06-23 23:48:37] regeneration: 1 files changed
+[2010-06-23 23:49:12] regeneration: 1 files changed
+[2010-06-23 23:50:32] regeneration: 1 files changed
+[2010-06-23 23:55:22] regeneration: 1 files changed
+[2010-06-23 23:57:58] regeneration: 1 files changed
+[2010-06-23 23:58:23] regeneration: 1 files changed
+[2010-06-24 00:10:59] regeneration: 1 files changed
+[2010-06-24 00:14:09] regeneration: 1 files changed
+[2010-06-24 00:14:21] regeneration: 1 files changed
+[2010-06-24 00:14:25] regeneration: 1 files changed
+[2010-06-24 00:15:31] regeneration: 1 files changed
+[2010-06-24 00:17:01] regeneration: 1 files changed
+[2010-06-24 00:18:49] regeneration: 1 files changed
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-24 00:06:39] regeneration: 8 files changed
+[2010-06-24 00:10:59] regeneration: 1 files changed
+[2010-06-24 00:14:09] regeneration: 1 files changed
+[2010-06-24 00:14:21] regeneration: 1 files changed
+[2010-06-24 00:14:25] regeneration: 1 files changed
+[2010-06-24 00:15:31] regeneration: 1 files changed
+[2010-06-24 00:17:01] regeneration: 1 files changed
+[2010-06-24 00:18:49] regeneration: 1 files changed
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-23 23:48:39] regeneration: 8 files changed
+[2010-06-23 23:49:11] regeneration: 1 files changed
+[2010-06-23 23:50:32] regeneration: 1 files changed
+[2010-06-23 23:55:21] regeneration: 1 files changed
+[2010-06-23 23:57:58] regeneration: 1 files changed
+[2010-06-23 23:58:22] regeneration: 1 files changed
+[2010-06-24 00:10:58] regeneration: 1 files changed
+[2010-06-24 00:14:10] regeneration: 1 files changed
+[2010-06-24 00:14:22] regeneration: 1 files changed
+[2010-06-24 00:14:25] regeneration: 1 files changed
+[2010-06-24 00:15:31] regeneration: 1 files changed
+[2010-06-24 00:17:02] regeneration: 1 files changed
+[2010-06-24 00:18:49] regeneration: 1 files changed
+Building site: /home/jdc/git/catenate.github.com -> /home/jdc/git/catenate.github.com/_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> /home/jdc/git/catenate.github.com/_site
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-23 23:44:48] regeneration: 8 files changed
+[2010-06-23 23:45:10] regeneration: 1 files changed
+[2010-06-23 23:48:37] regeneration: 1 files changed
+[2010-06-23 23:49:12] regeneration: 1 files changed
+[2010-06-23 23:50:32] regeneration: 1 files changed
+[2010-06-23 23:55:21] regeneration: 1 files changed
+[2010-06-23 23:57:58] regeneration: 1 files changed
+[2010-06-23 23:58:22] regeneration: 1 files changed
+[2010-06-24 00:10:58] regeneration: 1 files changed
+[2010-06-24 00:14:09] regeneration: 1 files changed
+[2010-06-24 00:14:21] regeneration: 1 files changed
+[2010-06-24 00:14:25] regeneration: 1 files changed
+[2010-06-24 00:15:31] regeneration: 1 files changed
+[2010-06-24 00:17:01] regeneration: 1 files changed
+[2010-06-24 00:18:48] regeneration: 1 files changed
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-23 23:57:59] regeneration: 8 files changed
+[2010-06-23 23:58:22] regeneration: 1 files changed
+[2010-06-24 00:10:58] regeneration: 1 files changed
+[2010-06-24 00:14:09] regeneration: 1 files changed
+[2010-06-24 00:14:21] regeneration: 1 files changed
+[2010-06-24 00:14:25] regeneration: 1 files changed
+[2010-06-24 00:15:31] regeneration: 1 files changed
+[2010-06-24 00:17:01] regeneration: 1 files changed
+[2010-06-24 00:18:49] regeneration: 1 files changed
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-23 23:58:27] regeneration: 8 files changed
+[2010-06-24 00:10:59] regeneration: 1 files changed
+[2010-06-24 00:14:10] regeneration: 1 files changed
+[2010-06-24 00:14:22] regeneration: 1 files changed
+[2010-06-24 00:14:25] regeneration: 1 files changed
+[2010-06-24 00:15:31] regeneration: 1 files changed
+[2010-06-24 00:17:01] regeneration: 1 files changed
+[2010-06-24 00:18:49] regeneration: 1 files changed
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-24 00:15:38] regeneration: 9 files changed
+[2010-06-24 00:17:01] regeneration: 1 files changed
+[2010-06-24 00:18:48] regeneration: 1 files changed
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-24 00:20:28] regeneration: 10 files changed
+jekyll: exit signal: kill
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+[2010-06-24 00:21:03] INFO  WEBrick 1.3.1
+[2010-06-24 00:21:03] INFO  ruby 1.9.1 (2010-01-10) [x86_64-linux]
+[2010-06-24 00:21:08] INFO  WEBrick::HTTPServer#start: pid=27787 port=4000
+localhost - - [24/Jun/2010:00:21:09 CDT] "GET / HTTP/1.1" 200 295
+- -> /
+localhost - - [24/Jun/2010:00:21:09 CDT] "GET /css/screen.css HTTP/1.1" 200 29
+Referer -> /css/screen.css
+[2010-06-24 00:21:09] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:21:09 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [24/Jun/2010:00:21:11 CDT] "GET / HTTP/1.1" 304 0
+- -> /
+localhost - - [24/Jun/2010:00:21:11 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-06-24 00:21:11] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:21:11 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-24 00:21:03] regeneration: 10 files changed
+[2010-06-24 00:21:57] regeneration: 1 files changed
+27787: signal: kill
+jekyll: exit 1
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+[2010-06-24 00:22:09] INFO  WEBrick 1.3.1
+[2010-06-24 00:22:09] INFO  ruby 1.9.1 (2010-01-10) [x86_64-linux]
+[2010-06-24 00:22:14] INFO  WEBrick::HTTPServer#start: pid=27817 port=4000
+localhost - - [24/Jun/2010:00:22:16 CDT] "GET / HTTP/1.1" 200 295
+- -> /
+localhost - - [24/Jun/2010:00:22:16 CDT] "GET /css/screen.css HTTP/1.1" 200 24
+Referer -> /css/screen.css
+[2010-06-24 00:22:16] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:22:16 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-24 00:22:09] regeneration: 10 files changed
+[2010-06-24 00:22:39] regeneration: 1 files changed
+[2010-06-24 00:28:33] regeneration: 1 files changed
+jekyll: exit 1
+27817: signal: kill
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+[2010-06-24 00:28:44] INFO  WEBrick 1.3.1
+[2010-06-24 00:28:44] INFO  ruby 1.9.1 (2010-01-10) [x86_64-linux]
+[2010-06-24 00:28:49] INFO  WEBrick::HTTPServer#start: pid=27956 port=4000
+localhost - - [24/Jun/2010:00:28:52 CDT] "GET / HTTP/1.1" 200 302
+- -> /
+localhost - - [24/Jun/2010:00:28:52 CDT] "GET /css/screen.css HTTP/1.1" 200 179
+Referer -> /css/screen.css
+[2010-06-24 00:28:52] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:28:52 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-24 00:28:44] regeneration: 10 files changed
+[2010-06-24 00:29:31] regeneration: 1 files changed
+[2010-06-24 00:30:05] regeneration: 1 files changed
+27956: signal: kill
+jekyll: exit 1
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+[2010-06-24 00:30:15] INFO  WEBrick 1.3.1
+[2010-06-24 00:30:15] INFO  ruby 1.9.1 (2010-01-10) [x86_64-linux]
+[2010-06-24 00:30:20] INFO  WEBrick::HTTPServer#start: pid=27986 port=4000
+localhost - - [24/Jun/2010:00:30:24 CDT] "GET / HTTP/1.1" 200 302
+- -> /
+localhost - - [24/Jun/2010:00:30:24 CDT] "GET /css/screen.css HTTP/1.1" 200 179
+Referer -> /css/screen.css
+[2010-06-24 00:30:24] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:30:24 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [24/Jun/2010:00:30:41 CDT] "GET /2010/06/test HTTP/1.1" 301 58
+Referer -> /2010/06/test
+[2010-06-24 00:30:41] ERROR Errno::ECONNRESET: Connection reset by peer
+	/usr/lib/ruby/1.9.1/webrick/httpserver.rb:56:in `eof?'
+	/usr/lib/ruby/1.9.1/webrick/httpserver.rb:56:in `run'
+	/usr/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+localhost - - [24/Jun/2010:00:30:41 CDT] "GET /2010/06/test/ HTTP/1.1" 200 20
+Referer -> /2010/06/test/
+[2010-06-24 00:30:41] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:30:41 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-06-24 00:30:42] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:30:42 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+localhost - - [24/Jun/2010:00:32:24 CDT] "GET / HTTP/1.1" 200 389
+- -> /
+localhost - - [24/Jun/2010:00:32:24 CDT] "GET /css/screen.css HTTP/1.1" 200 178
+Referer -> /css/screen.css
+[2010-06-24 00:32:24] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:32:24 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+localhost - - [24/Jun/2010:00:33:56 CDT] "GET / HTTP/1.1" 200 389
+- -> /
+localhost - - [24/Jun/2010:00:33:56 CDT] "GET /css/screen.css HTTP/1.1" 200 179
+Referer -> /css/screen.css
+[2010-06-24 00:33:56] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:33:56 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+localhost - - [24/Jun/2010:00:35:50 CDT] "GET / HTTP/1.1" 200 401
+- -> /
+localhost - - [24/Jun/2010:00:35:50 CDT] "GET /css/screen.css HTTP/1.1" 200 179
+Referer -> /css/screen.css
+[2010-06-24 00:35:50] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:35:50 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+localhost - - [24/Jun/2010:00:36:23 CDT] "GET / HTTP/1.1" 200 401
+- -> /
+localhost - - [24/Jun/2010:00:36:23 CDT] "GET /css/screen.css HTTP/1.1" 200 179
+Referer -> /css/screen.css
+[2010-06-24 00:36:23] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:36:23 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [24/Jun/2010:00:36:26 CDT] "GET / HTTP/1.1" 304 0
+- -> /
+localhost - - [24/Jun/2010:00:36:26 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-06-24 00:36:27] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:36:27 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+localhost - - [24/Jun/2010:00:37:36 CDT] "GET / HTTP/1.1" 200 401
+- -> /
+localhost - - [24/Jun/2010:00:37:36 CDT] "GET /css/screen.css HTTP/1.1" 200 179
+Referer -> /css/screen.css
+[2010-06-24 00:37:36] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:37:36 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [24/Jun/2010:00:39:18 CDT] "GET /2010/06/second-test HTTP/1.1" 301 72
+Referer -> /2010/06/second-test
+[2010-06-24 00:39:18] ERROR Errno::ECONNRESET: Connection reset by peer
+	/usr/lib/ruby/1.9.1/webrick/httpserver.rb:56:in `eof?'
+	/usr/lib/ruby/1.9.1/webrick/httpserver.rb:56:in `run'
+	/usr/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+localhost - - [24/Jun/2010:00:39:18 CDT] "GET /2010/06/second-test/ HTTP/1.1" 200 28
+Referer -> /2010/06/second-test/
+[2010-06-24 00:39:19] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:39:19 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-06-24 00:39:23] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:39:23 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+localhost - - [24/Jun/2010:00:41:36 CDT] "GET / HTTP/1.1" 200 505
+- -> /
+localhost - - [24/Jun/2010:00:41:36 CDT] "GET /css/screen.css HTTP/1.1" 200 179
+Referer -> /css/screen.css
+[2010-06-24 00:41:36] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:41:36 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [24/Jun/2010:00:41:44 CDT] "GET /2010/06/test/ HTTP/1.1" 200 135
+Referer -> /2010/06/test/
+[2010-06-24 00:41:44] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:41:44 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+localhost - - [24/Jun/2010:00:44:25 CDT] "GET /2010/06/test/ HTTP/1.1" 200 516
+Referer -> /2010/06/test/
+[2010-06-24 00:44:25] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:44:25 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-06-24 00:44:36] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:44:36 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-06-24 00:45:14] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:45:14 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-24 00:37:33] regeneration: 11 files changed
+[2010-06-24 00:41:18] regeneration: 1 files changed
+[2010-06-24 00:41:29] regeneration: 1 files changed
+[2010-06-24 00:44:01] regeneration: 1 files changed
+[2010-06-24 00:44:04] regeneration: 1 files changed
+[2010-06-24 00:44:12] regeneration: 1 files changed
+[2010-06-24 00:47:04] regeneration: 1 files changed
+[2010-06-24 00:49:47] regeneration: 1 files changed
+jekyll: exit signal: kill
+jekyll: exit signal: kill
+jekyll: exit signal: kill
+jekyll: exit signal: kill
+jekyll: exit signal: kill
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-24 00:41:32] regeneration: 12 files changed
+[2010-06-24 00:44:01] regeneration: 1 files changed
+[2010-06-24 00:44:04] regeneration: 1 files changed
+[2010-06-24 00:44:12] regeneration: 1 files changed
+[2010-06-24 00:47:04] regeneration: 1 files changed
+[2010-06-24 00:49:46] regeneration: 1 files changed
+jekyll: exit signal: kill
+jekyll: exit signal: kill
+jekyll: exit 1
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-24 00:35:47] regeneration: 11 files changed
+[2010-06-24 00:36:13] regeneration: 1 files changed
+[2010-06-24 00:37:27] regeneration: 2 files changed
+[2010-06-24 00:41:18] regeneration: 1 files changed
+[2010-06-24 00:41:29] regeneration: 1 files changed
+[2010-06-24 00:44:01] regeneration: 1 files changed
+[2010-06-24 00:44:04] regeneration: 1 files changed
+[2010-06-24 00:44:12] regeneration: 1 files changed
+[2010-06-24 00:47:04] regeneration: 1 files changed
+[2010-06-24 00:49:46] regeneration: 1 files changed
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-24 00:30:14] regeneration: 10 files changed
+[2010-06-24 00:31:29] regeneration: 1 files changed
+[2010-06-24 00:31:51] regeneration: 1 files changed
+[2010-06-24 00:32:05] regeneration: 1 files changed
+[2010-06-24 00:33:50] regeneration: 1 files changed
+[2010-06-24 00:35:03] regeneration: 1 files changed
+[2010-06-24 00:35:09] regeneration: 1 files changed
+[2010-06-24 00:35:41] regeneration: 2 files changed
+[2010-06-24 00:36:14] regeneration: 1 files changed
+[2010-06-24 00:37:28] regeneration: 2 files changed
+[2010-06-24 00:41:18] regeneration: 1 files changed
+[2010-06-24 00:41:29] regeneration: 1 files changed
+[2010-06-24 00:44:01] regeneration: 1 files changed
+[2010-06-24 00:44:04] regeneration: 1 files changed
+[2010-06-24 00:44:12] regeneration: 1 files changed
+[2010-06-24 00:47:04] regeneration: 1 files changed
+[2010-06-24 00:49:47] regeneration: 1 files changed
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-24 00:44:17] regeneration: 12 files changed
+[2010-06-24 00:47:04] regeneration: 1 files changed
+[2010-06-24 00:49:47] regeneration: 1 files changed
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-24 00:33:52] regeneration: 11 files changed
+[2010-06-24 00:35:03] regeneration: 1 files changed
+[2010-06-24 00:35:08] regeneration: 1 files changed
+[2010-06-24 00:35:40] regeneration: 2 files changed
+[2010-06-24 00:36:13] regeneration: 1 files changed
+[2010-06-24 00:37:27] regeneration: 2 files changed
+[2010-06-24 00:41:18] regeneration: 1 files changed
+[2010-06-24 00:41:29] regeneration: 1 files changed
+[2010-06-24 00:44:00] regeneration: 1 files changed
+[2010-06-24 00:44:03] regeneration: 1 files changed
+[2010-06-24 00:44:11] regeneration: 1 files changed
+[2010-06-24 00:47:03] regeneration: 1 files changed
+[2010-06-24 00:49:47] regeneration: 1 files changed
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-24 00:32:16] regeneration: 11 files changed
+[2010-06-24 00:33:50] regeneration: 1 files changed
+[2010-06-24 00:35:03] regeneration: 1 files changed
+[2010-06-24 00:35:09] regeneration: 1 files changed
+[2010-06-24 00:35:40] regeneration: 2 files changed
+[2010-06-24 00:36:13] regeneration: 1 files changed
+[2010-06-24 00:37:27] regeneration: 2 files changed
+[2010-06-24 00:41:18] regeneration: 1 files changed
+[2010-06-24 00:41:29] regeneration: 1 files changed
+[2010-06-24 00:44:01] regeneration: 1 files changed
+[2010-06-24 00:44:04] regeneration: 1 files changed
+[2010-06-24 00:44:12] regeneration: 1 files changed
+[2010-06-24 00:47:04] regeneration: 1 files changed
+[2010-06-24 00:49:46] regeneration: 1 files changed
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Auto-regenerating enabled: /home/jdc/git/catenate.github.com -> ./_site
+[2010-06-24 00:36:20] regeneration: 11 files changed
+[2010-06-24 00:37:27] regeneration: 2 files changed
+[2010-06-24 00:41:18] regeneration: 1 files changed
+[2010-06-24 00:41:29] regeneration: 1 files changed
+[2010-06-24 00:44:01] regeneration: 1 files changed
+[2010-06-24 00:44:04] regeneration: 1 files changed
+[2010-06-24 00:44:12] regeneration: 1 files changed
+[2010-06-24 00:47:04] regeneration: 1 files changed
+[2010-06-24 00:49:46] regeneration: 1 files changed
+27986: signal: kill
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+[2010-06-24 00:50:29] INFO  WEBrick 1.3.1
+[2010-06-24 00:50:29] INFO  ruby 1.9.1 (2010-01-10) [x86_64-linux]
+[2010-06-24 00:50:34] INFO  WEBrick::HTTPServer#start: pid=28502 port=4000
+localhost - - [24/Jun/2010:00:50:35 CDT] "GET / HTTP/1.1" 200 783
+- -> /
+localhost - - [24/Jun/2010:00:50:35 CDT] "GET /css/screen.css HTTP/1.1" 200 179
+Referer -> /css/screen.css
+[2010-06-24 00:50:35] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:50:35 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:00:51:38 CDT] "GET / HTTP/1.1" 200 808
+- -> /
+localhost - - [24/Jun/2010:00:51:38 CDT] "GET /css/screen.css HTTP/1.1" 200 179
+Referer -> /css/screen.css
+[2010-06-24 00:51:38] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:51:38 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:00:52:54 CDT] "GET / HTTP/1.1" 200 809
+- -> /
+localhost - - [24/Jun/2010:00:52:54 CDT] "GET /css/screen.css HTTP/1.1" 200 179
+Referer -> /css/screen.css
+[2010-06-24 00:52:54] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:52:54 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:00:54:38 CDT] "GET / HTTP/1.1" 200 805
+- -> /
+localhost - - [24/Jun/2010:00:54:38 CDT] "GET /css/screen.css HTTP/1.1" 200 179
+Referer -> /css/screen.css
+[2010-06-24 00:54:38] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:54:38 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:00:55:29 CDT] "GET / HTTP/1.1" 200 818
+- -> /
+localhost - - [24/Jun/2010:00:55:29 CDT] "GET /css/screen.css HTTP/1.1" 200 179
+Referer -> /css/screen.css
+[2010-06-24 00:55:29] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:55:29 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [24/Jun/2010:00:55:48 CDT] "GET / HTTP/1.1" 304 0
+- -> /
+localhost - - [24/Jun/2010:00:55:48 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-06-24 00:55:48] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:55:48 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:00:55:55 CDT] "GET / HTTP/1.1" 200 822
+- -> /
+localhost - - [24/Jun/2010:00:55:55 CDT] "GET /css/screen.css HTTP/1.1" 200 179
+Referer -> /css/screen.css
+[2010-06-24 00:55:55] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:55:55 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [24/Jun/2010:00:55:56 CDT] "GET / HTTP/1.1" 304 0
+- -> /
+localhost - - [24/Jun/2010:00:55:56 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-06-24 00:55:56] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:55:56 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:00:56:21 CDT] "GET / HTTP/1.1" 200 831
+- -> /
+localhost - - [24/Jun/2010:00:56:21 CDT] "GET /css/screen.css HTTP/1.1" 200 179
+Referer -> /css/screen.css
+[2010-06-24 00:56:21] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:56:21 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:00:58:06 CDT] "GET / HTTP/1.1" 200 905
+- -> /
+localhost - - [24/Jun/2010:00:58:06 CDT] "GET /css/screen.css HTTP/1.1" 200 179
+Referer -> /css/screen.css
+[2010-06-24 00:58:06] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:58:06 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:00:59:59 CDT] "GET / HTTP/1.1" 200 905
+- -> /
+localhost - - [24/Jun/2010:00:59:59 CDT] "GET /css/screen.css HTTP/1.1" 200 352
+Referer -> /css/screen.css
+[2010-06-24 00:59:59] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:00:59:59 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [24/Jun/2010:01:00:02 CDT] "GET / HTTP/1.1" 304 0
+- -> /
+localhost - - [24/Jun/2010:01:00:02 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-06-24 01:00:03] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:00:03 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:00:35 CDT] "GET / HTTP/1.1" 200 905
+- -> /
+localhost - - [24/Jun/2010:01:00:35 CDT] "GET /css/screen.css HTTP/1.1" 200 352
+Referer -> /css/screen.css
+[2010-06-24 01:00:35] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:00:35 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:05:19 CDT] "GET / HTTP/1.1" 200 912
+- -> /
+localhost - - [24/Jun/2010:01:05:19 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:05:19] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:05:19 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:07:13 CDT] "GET / HTTP/1.1" 200 912
+- -> /
+localhost - - [24/Jun/2010:01:07:13 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:07:13] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:07:13 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-06-24 01:07:18] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:07:18 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:08:57 CDT] "GET / HTTP/1.1" 200 895
+- -> /
+localhost - - [24/Jun/2010:01:08:57 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:08:57] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:08:57 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:10:44 CDT] "GET / HTTP/1.1" 200 991
+- -> /
+localhost - - [24/Jun/2010:01:10:44 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:10:44] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:10:44 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:11:00 CDT] "GET / HTTP/1.1" 200 987
+- -> /
+localhost - - [24/Jun/2010:01:11:00 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:11:00] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:11:00 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+site.categories.
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:19:15 CDT] "GET / HTTP/1.1" 200 1225
+- -> /
+localhost - - [24/Jun/2010:01:19:16 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:19:16] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:19:16 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:20:18 CDT] "GET / HTTP/1.1" 200 1003
+- -> /
+localhost - - [24/Jun/2010:01:20:18 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:20:18] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:20:18 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:30:38 CDT] "GET / HTTP/1.1" 200 1011
+- -> /
+localhost - - [24/Jun/2010:01:30:38 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:30:38] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:30:38 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:31:01 CDT] "GET / HTTP/1.1" 200 1012
+- -> /
+localhost - - [24/Jun/2010:01:31:01 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:31:01] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:31:01 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:31:56 CDT] "GET / HTTP/1.1" 200 1012
+- -> /
+localhost - - [24/Jun/2010:01:31:56 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:31:56] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:31:56 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:34:41 CDT] "GET / HTTP/1.1" 200 1039
+- -> /
+localhost - - [24/Jun/2010:01:34:41 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:34:42] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:34:42 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:35:18 CDT] "GET / HTTP/1.1" 200 1052
+- -> /
+localhost - - [24/Jun/2010:01:35:18 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:35:18] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:35:18 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:35:47 CDT] "GET / HTTP/1.1" 200 1056
+- -> /
+localhost - - [24/Jun/2010:01:35:47 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:35:47] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:35:47 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:37:02 CDT] "GET / HTTP/1.1" 200 1068
+- -> /
+localhost - - [24/Jun/2010:01:37:02 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:37:02] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:37:02 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:38:18 CDT] "GET / HTTP/1.1" 200 1073
+- -> /
+localhost - - [24/Jun/2010:01:38:18 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:38:18] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:38:18 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:39:03 CDT] "GET / HTTP/1.1" 200 1052
+- -> /
+localhost - - [24/Jun/2010:01:39:03 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:39:03] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:39:03 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:39:17 CDT] "GET / HTTP/1.1" 200 1067
+- -> /
+localhost - - [24/Jun/2010:01:39:17 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:39:17] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:39:17 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [24/Jun/2010:01:40:12 CDT] "GET /2010/06/second-test/ HTTP/1.1" 200 53
+Referer -> /2010/06/second-test/
+[2010-06-24 01:40:12] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:40:12 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [24/Jun/2010:01:40:14 CDT] "GET /2010/06/test/ HTTP/1.1" 200 516
+Referer -> /2010/06/test/
+[2010-06-24 01:40:14] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:40:14 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:40:51 CDT] "GET / HTTP/1.1" 200 1058
+- -> /
+localhost - - [24/Jun/2010:01:40:51 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:40:51] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:40:51 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:42:38 CDT] "GET / HTTP/1.1" 200 1153
+- -> /
+localhost - - [24/Jun/2010:01:42:38 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:42:38] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:42:38 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:43:10 CDT] "GET / HTTP/1.1" 200 1144
+- -> /
+localhost - - [24/Jun/2010:01:43:10 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:43:10] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:43:10 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   .gitignore
+#	new file:   _config.yml
+#	new file:   _layouts/default.html
+#	new file:   _layouts/post.html
+#	new file:   _posts/2010-06-23-test.markdown
+#
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   _config.yml
+#	modified:   _layouts/post.html
+#	modified:   _posts/2010-06-23-test.markdown
+#	modified:   guide
+#	modified:   index.html
+#
+# Untracked files:
+#   (use "git add _layouts/index.html _posts/2010-06-24-dont-click-me.markdown _posts/2010-06-24-second-test.markdown css
+#	css/
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   .gitignore
+#	new file:   _config.yml
+#	new file:   _layouts/default.html
+#	new file:   _layouts/index.html
+#	new file:   _layouts/post.html
+#	new file:   _posts/2010-06-23-test.markdown
+#	new file:   _posts/2010-06-24-dont-click-me.markdown
+#	new file:   _posts/2010-06-24-second-test.markdown
+#	new file:   css/screen.css
+#
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   _config.yml
+#	modified:   _layouts/post.html
+#	modified:   _posts/2010-06-23-test.markdown
+#	modified:   guide
+#	modified:   index.html
+#
+[master 982a720] add README.md to explain source code
+ 6 files changed, 47 insertions(+), 0 deletions(-)
+ create mode 100644 .gitignore
+ create mode 100644 _config.yml
+ create mode 100644 _layouts/default.html
+ create mode 100644 _layouts/index.html
+ create mode 100644 _layouts/post.html
+ create mode 100644 _posts/2010-06-23-test.markdown
+ create mode 100644 _posts/2010-06-24-dont-click-me.markdown
+ create mode 100644 _posts/2010-06-24-second-test.markdown
+ create mode 100644 css/screen.css
+To git@github.com:catenate/catenate.github.com.git
+   ac9bb71..982a720  master -> master
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   _config.yml
+#	modified:   _layouts/post.html
+#	modified:   _posts/2010-06-23-test.markdown
+#	modified:   guide
+#	modified:   index.html
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+[master e890db1] Push first real version of user pages.
+ 5 files changed, 110 insertions(+), 2 deletions(-)
+ rewrite _posts/2010-06-23-test.markdown (100%)
+ rewrite guide (100%)
+To git@github.com:catenate/catenate.github.com.git
+   982a720..e890db1  master -> master
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:55:43 CDT] "GET / HTTP/1.1" 200 1144
+- -> /
+localhost - - [24/Jun/2010:01:55:43 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:55:43] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:55:43 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   _posts/2010-06-23-test.markdown
+#	modified:   _posts/2010-06-24-dont-click-me.markdown
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+[master efa179d] Pull in line size to 62 to match my phone width.
+ 2 files changed, 15 insertions(+), 14 deletions(-)
+ rewrite _posts/2010-06-23-test.markdown (84%)
+To git@github.com:catenate/catenate.github.com.git
+   e890db1..efa179d  master -> master
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [24/Jun/2010:01:59:14 CDT] "GET / HTTP/1.1" 200 1155
+- -> /
+localhost - - [24/Jun/2010:01:59:14 CDT] "GET /css/screen.css HTTP/1.1" 200 267
+Referer -> /css/screen.css
+[2010-06-24 01:59:14] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:01:59:14 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [24/Jun/2010:02:00:25 CDT] "GET / HTTP/1.1" 304 0
+- -> /
+localhost - - [24/Jun/2010:02:00:25 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-06-24 02:00:25] ERROR `/favicon.ico' not found.
+localhost - - [24/Jun/2010:02:00:25 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   guide
+#	modified:   index.html
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 12a7f15] Links should be emphasized, to be consistent.
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+To git@github.com:catenate/catenate.github.com.git
+   efa179d..12a7f15  master -> master

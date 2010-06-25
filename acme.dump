@@ -23,10 +23,10 @@ f          0           8           0         162  96.0784314
           8          71         209           0           0 /home/jdc/git/catenate.github.com/_layouts/index.html Del Snarf | Look 
 f          0           9          71          71  98.1481481 
           9          90          78           0           0 /home/jdc/git/catenate.github.com/_posts/2010-06-24-second-test.markdown Del Snarf | Look 
-f          1          10         196         207   2.0697168 
-         10          57        2191           0           0 /home/jdc/git/catenate.github.com/guide Del Snarf | Look 
-F          1           1       96504       96504  28.3224401       96504 
-         11          68       96504           0           1 /home/jdc/git/catenate.github.com/+Errors Del Snarf Undo Put | Look 
+f          1          10         207         278   2.0697168 
+         10          62        2193           0           0 /home/jdc/git/catenate.github.com/guide Del Snarf Undo | Look 
+F          1           1       97018       97018  28.3224401       97018 
+         11          68       97018           0           1 /home/jdc/git/catenate.github.com/+Errors Del Snarf Undo Put | Look 
 Initialized empty Git repository in /home/jdc/git/catenate.github.com/.git/
 # On branch master
 #
@@ -1872,6 +1872,20 @@ localhost - - [25/Jun/2010:01:15:49 CDT] "GET /favicon.ico HTTP/1.1" 404 279
 #	modified:   index.html
 #
 no changes added to commit (use "git add" and/or "git commit -a")
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   acme.dump
+#	modified:   guide
+#	modified:   index.html
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+[master e3a75c4] Add link to tictestrue page.
+ 3 files changed, 100 insertions(+), 26 deletions(-)
+To git@github.com:catenate/catenate.github.com.git
+   313b7c6..e3a75c4  master -> master
 F          1           2           0          24  52.7233115          24 
          12          25          24           0           0 +Errors Del Snarf | Look 
 Kill: no process jekyll

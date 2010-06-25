@@ -8,7 +8,7 @@ ps -a | grep jekyll
 http://0.0.0.0:4000
 
 git status
-git commit -a -m 'Slightly color background.'
+git commit -a -m 'Add link to tictestrue page.'
 git push origin master
 
 Instructions for setting up username.github.com *

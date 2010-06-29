@@ -11,20 +11,20 @@ f          0           2          22          22   4.1394336
           2          65          35           1           0 /home/jdc/git/catenate.github.com/_layouts/ Del Snarf Get | Look 
 f          0           3         113         113   6.2091503 
           3          63         129           1           0 /home/jdc/git/catenate.github.com/_posts/ Del Snarf Get | Look 
-f          0           4         219         219   8.2788671 
-          4          67         775           0           0 /home/jdc/git/catenate.github.com/index.html Del Snarf Undo | Look 
-f          0           5          51          51  62.3093682 
+f          0           4         220         226   8.2788671 
+          4          67         790           0           0 /home/jdc/git/catenate.github.com/index.html Del Snarf Undo | Look 
+f          0           5          51          51  58.6056645 
           5          66         323           0           0 /home/jdc/git/catenate.github.com/css/screen.css Del Snarf | Look 
-f          0           6         162         162  73.7472767 
+f          0           6         162         162  70.0435730 
           6          70         235           0           0 /home/jdc/git/catenate.github.com/_layouts/post.html Del Snarf | Look 
-f          0           7         539         539  75.8169935 
+f          0           7         539         539  72.1132898 
           7          83         539           0           0 /home/jdc/git/catenate.github.com/_posts/2010-06-23-test.markdown Del Snarf | Look 
-f          0           8           0         162  77.8867102 
+f          0           8           0         162  74.1830065 
           8          71         209           0           0 /home/jdc/git/catenate.github.com/_layouts/index.html Del Snarf | Look 
-f          0           9          71          71  79.9564270 
+f          0           9          71          71  76.2527233 
           9          90          78           0           0 /home/jdc/git/catenate.github.com/_posts/2010-06-24-second-test.markdown Del Snarf | Look 
-F          1           0      101288      101288   2.0697168      101288 
-         11          68      101288           0           1 /home/jdc/git/catenate.github.com/+Errors Del Snarf Undo Put | Look 
+F          1           0      101769      101769   2.0697168      101769 
+         10          68      101769           0           1 /home/jdc/git/catenate.github.com/+Errors Del Snarf Undo Put | Look 
 Initialized empty Git repository in /home/jdc/git/catenate.github.com/.git/
 # On branch master
 #
@@ -1971,5 +1971,18 @@ no changes added to commit (use "git add" and/or "git commit -a")
  3 files changed, 43 insertions(+), 19 deletions(-)
 To git@github.com:catenate/catenate.github.com.git
    6023348..7889911  master -> master
-f          1          10         207         266  76.4705882 
-         10          62        2181           0           0 /home/jdc/git/catenate.github.com/guide Del Snarf Undo | Look 
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   acme.dump
+#	modified:   index.html
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 919f4af] Update outlinks.
+ 2 files changed, 75 insertions(+), 13 deletions(-)
+To git@github.com:catenate/catenate.github.com.git
+   7889911..919f4af  master -> master
+f          1          11         207         266  30.1742919 
+         11          57        2181           0           0 /home/jdc/git/catenate.github.com/guide Del Snarf | Look 

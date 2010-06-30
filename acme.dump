@@ -2,7 +2,7 @@
 /usr/local/plan9/font/times/latin1.7a.font
 /home/jdc/opt/src/icons/icons.14.font
   0.0000000  59.8437500
-w jekyll jekyll Newcol Kill Putall Dump acme.dump Exit 
+w jekyll jekyll jekyll Newcol Kill Putall Dump acme.dump Exit 
 c          0 New Cut Paste Snarf Sort Zerox Delcol 
 c          1 New Cut Paste Snarf Sort Zerox Delcol 
 f          0           1          24          24   2.0697168 
@@ -11,20 +11,20 @@ f          0           2          22          22   4.1394336
           2          65          35           1           0 /home/jdc/git/catenate.github.com/_layouts/ Del Snarf Get | Look 
 f          0           3         113         113   6.2091503 
           3          63         129           1           0 /home/jdc/git/catenate.github.com/_posts/ Del Snarf Get | Look 
-f          0           4         220         226   8.2788671 
-          4          67         790           0           0 /home/jdc/git/catenate.github.com/index.html Del Snarf Undo | Look 
-f          0           5          51          51  58.6056645 
+f          0           4         376         425   8.2788671 
+          4          67         903           0           0 /home/jdc/git/catenate.github.com/index.html Del Snarf Undo | Look 
+f          0           5          51          51  54.9019608 
           5          66         323           0           0 /home/jdc/git/catenate.github.com/css/screen.css Del Snarf | Look 
-f          0           6         162         162  70.0435730 
+f          0           6         162         162  66.3398693 
           6          70         235           0           0 /home/jdc/git/catenate.github.com/_layouts/post.html Del Snarf | Look 
-f          0           7         539         539  72.1132898 
+f          0           7         539         539  68.4095861 
           7          83         539           0           0 /home/jdc/git/catenate.github.com/_posts/2010-06-23-test.markdown Del Snarf | Look 
-f          0           8           0         162  74.1830065 
+f          0           8           0         162  70.4793028 
           8          71         209           0           0 /home/jdc/git/catenate.github.com/_layouts/index.html Del Snarf | Look 
-f          0           9          71          71  76.2527233 
+f          0           9          71          71  72.5490196 
           9          90          78           0           0 /home/jdc/git/catenate.github.com/_posts/2010-06-24-second-test.markdown Del Snarf | Look 
-F          1           0      101769      101769   2.0697168      101769 
-         10          68      101769           0           1 /home/jdc/git/catenate.github.com/+Errors Del Snarf Undo Put | Look 
+F          1           0      103501      103501   2.0697168      103501 
+         10          68      103501           0           1 /home/jdc/git/catenate.github.com/+Errors Del Snarf Undo Put | Look 
 Initialized empty Git repository in /home/jdc/git/catenate.github.com/.git/
 # On branch master
 #
@@ -1984,5 +1984,41 @@ no changes added to commit (use "git add" and/or "git commit -a")
  2 files changed, 75 insertions(+), 13 deletions(-)
 To git@github.com:catenate/catenate.github.com.git
    7889911..919f4af  master -> master
-f          1          11         207         266  30.1742919 
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   acme.dump
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 9b9bfe3] Update outlinks.
+ 1 files changed, 24 insertions(+), 11 deletions(-)
+To git@github.com:catenate/catenate.github.com.git
+   919f4af..9b9bfe3  master -> master
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+[2010-06-29 21:43:24] INFO  WEBrick 1.3.1
+[2010-06-29 21:43:24] INFO  ruby 1.9.1 (2010-01-10) [x86_64-linux]
+[2010-06-29 21:43:29] INFO  WEBrick::HTTPServer#start: pid=7373 port=4000
+localhost - - [29/Jun/2010:21:44:18 CDT] "GET / HTTP/1.1" 200 1460
+- -> /
+localhost - - [29/Jun/2010:21:44:18 CDT] "GET /css/screen.css HTTP/1.1" 200 323
+Referer -> /css/screen.css
+[2010-06-29 21:44:18] ERROR `/favicon.ico' not found.
+localhost - - [29/Jun/2010:21:44:18 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   acme.dump
+#	modified:   index.html
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+f          1          11         196         207  28.3224401 
          11          57        2181           0           0 /home/jdc/git/catenate.github.com/guide Del Snarf | Look 

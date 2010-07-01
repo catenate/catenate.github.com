@@ -8,7 +8,7 @@ ps -a | grep jekyll
 http://0.0.0.0:4000
 
 git status
-git commit -a -m 'Update outlinks.'
+git commit -a -m 'Update width to keep disqus_thread div in line.'
 git push origin master
 
 Instructions for setting up username.github.com *

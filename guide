@@ -1,6 +1,6 @@
 http://daringfireball.net/projects/markdown/syntax
 http://www.liquidmarkup.org/
-|sed 's,<br/>$,,' |fmt -w 62 |sed 's,$,<br/>,'
+|fmt -w 62 |sed 's,$,  ,'
 |sort|uniq
 
 jekyll --server

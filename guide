@@ -1,6 +1,8 @@
+/home/jdc/Dropbox/nb
 http://daringfireball.net/projects/markdown/syntax
 http://www.liquidmarkup.org/
-|fmt -w 62 |sed 's,$,  ,'
+|fmt -w 72 |sed 's,$,  ,'
+|sed 's,'',’,'
 |sort|uniq
 
 jekyll --server
@@ -8,7 +10,7 @@ ps -a | grep jekyll
 http://0.0.0.0:4000
 
 git status
-git commit -a -m 'Update width to keep disqus_thread div in line.'
+git commit -a -m 'Rework index; add web presence; add symbols draft.'
 git push origin master
 
 Instructions for setting up username.github.com *
@@ -73,3 +75,9 @@ new from https://jadedpixel.lighthouseapp.com/projects/11053-liquid/tickets/11-r
 ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――  
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW  
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  
+
+
+<span class="mute"><a href="http://github.com/catenate">github</a>:</span>
+&nbsp; <span class="mute"><a href="http://catenate.github.com/pnblic">pnblic</a></span>
+&nbsp; <span class="mute"><a href="http://catenate.github.com/tictestrue">tictestrue</a></span>
+<br/>

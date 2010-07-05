@@ -2,31 +2,25 @@
 /usr/local/plan9/font/times/latin1.7a.font
 /home/jdc/opt/src/icons/icons.14.font
   0.0000000  59.8437500
-w jekyll jekyll jekyll Newcol Kill Putall Dump acme.dump Exit 
+w jekyll jekyll jekyll jekyll jekyll Newcol Kill Putall Dump acme.dump Exit 
 c          0 New Cut Paste Snarf Sort Zerox Delcol 
 c          1 New Cut Paste Snarf Sort Zerox Delcol 
-f          0          13        3061        3166   2.0697168 
-         13          52        5289           0           0 /home/jdc/Dropbox/nb/20100630 Del Snarf Redo | Look 
-f          0           1          24          24  40.7407407 
+f          0           1           0           0   2.0697168 
           1          56         112           1           0 /home/jdc/git/catenate.github.com/ Del Snarf Get | Look 
-f          0           2          22          22  42.8104575 
-          2          65          35           1           0 /home/jdc/git/catenate.github.com/_layouts/ Del Snarf Get | Look 
-f          0           8           0         162  44.8801743 
-          8          71         209           0           0 /home/jdc/git/catenate.github.com/_layouts/index.html Del Snarf | Look 
-f          0           6         462         462  46.9498911 
-          6          75         462           0           0 /home/jdc/git/catenate.github.com/_layouts/post.html Del Snarf Undo | Look 
-f          0           3         113         113  89.8692810 
-          3          63         129           1           0 /home/jdc/git/catenate.github.com/_posts/ Del Snarf Get | Look 
-f          0           7         539         539  91.9389978 
-          7          83         539           0           0 /home/jdc/git/catenate.github.com/_posts/2010-06-23-test.markdown Del Snarf | Look 
-f          0           9          71          71  94.0087146 
-          9          90          78           0           0 /home/jdc/git/catenate.github.com/_posts/2010-06-24-second-test.markdown Del Snarf | Look 
-f          0           5          51          51  96.0784314 
-          5          66         323           0           0 /home/jdc/git/catenate.github.com/css/screen.css Del Snarf | Look 
-f          0           4         376         425  98.1481481 
-          4          62         903           0           0 /home/jdc/git/catenate.github.com/index.html Del Snarf | Look 
-F          1           0      104316      104316   2.0697168      104316 
-         10          68      104316           0           1 /home/jdc/git/catenate.github.com/+Errors Del Snarf Undo Put | Look 
+f          0           2          44          44   4.1394336 
+          2          65          47           1           0 /home/jdc/git/catenate.github.com/_layouts/ Del Snarf Get | Look 
+f          0           3         325         325   6.2091503 
+          3          71         528           0           0 /home/jdc/git/catenate.github.com/_layouts/draft.html Del Snarf | Look 
+f          0           4           0           0   8.2788671 
+          4          63         219           1           0 /home/jdc/git/catenate.github.com/_posts/ Del Snarf Get | Look 
+f          0           5        1362        1362  10.3485839 
+          5         155        3769           0           0 /home/jdc/git/catenate.github.com/_posts/2010-07-04-better-symbols-for-programming-languages.markdown Del Snarf Undo | Look Font 
+f          0           6         548         548  96.0784314 
+          6         127         548           0           0 /home/jdc/git/catenate.github.com/_posts/2010-07-04-web-presence.markdown Del Snarf Undo | Look Font 
+f          0          11        1201        1201  98.1481481 
+         11          66        1201           0           0 /home/jdc/git/pnblic/nb/20100704 Del Snarf Undo | Look 
+F          1           0      156632      156632   2.0697168      156632 
+         14          68      156632           0           1 /home/jdc/git/catenate.github.com/+Errors Del Snarf Undo Put | Look 
 Initialized empty Git repository in /home/jdc/git/catenate.github.com/.git/
 # On branch master
 #
@@ -2044,7 +2038,920 @@ To git@github.com:catenate/catenate.github.com.git
 #	modified:   acme.dump
 #
 no changes added to commit (use "git add" and/or "git commit -a")
-f          1          11         196         207  26.4705882 
-         11          57        2181           0           0 /home/jdc/git/catenate.github.com/guide Del Snarf | Look 
-f          1          12           0           0  61.9825708 
-         12          43        3388           1           0 /home/jdc/Dropbox/nb/ Del Snarf Get | Look 
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   _layouts/post.html
+#	modified:   css/screen.css
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 6fce10b] Update width to keep disqus_thread div in line.
+ 3 files changed, 7 insertions(+), 2 deletions(-)
+To git@github.com:catenate/catenate.github.com.git
+   920c488..6fce10b  master -> master
+# On branch master
+nothing to commit (working directory clean)
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   css/screen.css
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 08b0731] Update width to keep disqus_thread div in line.
+ 1 files changed, 1 insertions(+), 1 deletions(-)
+To git@github.com:catenate/catenate.github.com.git
+   6fce10b..08b0731  master -> master
+[master fc97901] Update width to keep disqus_thread div in line.
+ 1 files changed, 1 insertions(+), 1 deletions(-)
+To git@github.com:catenate/catenate.github.com.git
+   08b0731..fc97901  master -> master
+[master 5c1d47f] Update width to keep disqus_thread div in line.
+ 1 files changed, 1 insertions(+), 1 deletions(-)
+To git@github.com:catenate/catenate.github.com.git
+   fc97901..5c1d47f  master -> master
+[master e3b850e] Update width to keep disqus_thread div in line.
+ 1 files changed, 1 insertions(+), 1 deletions(-)
+To git@github.com:catenate/catenate.github.com.git
+   5c1d47f..e3b850e  master -> master
+[master 71e73ba] Update width to keep disqus_thread div in line.
+ 1 files changed, 1 insertions(+), 1 deletions(-)
+To git@github.com:catenate/catenate.github.com.git
+   e3b850e..71e73ba  master -> master
+[master 24fef18] Update width to keep disqus_thread div in line.
+ 2 files changed, 17 insertions(+), 14 deletions(-)
+ rewrite _posts/2010-06-23-test.markdown (90%)
+To git@github.com:catenate/catenate.github.com.git
+   71e73ba..24fef18  master -> master
+[master 31a5fe1] Update width to keep disqus_thread div in line.
+ 1 files changed, 1 insertions(+), 0 deletions(-)
+To git@github.com:catenate/catenate.github.com.git
+   24fef18..31a5fe1  master -> master
+[master 1d5409e] Update width to keep disqus_thread div in line.
+ 2 files changed, 4 insertions(+), 4 deletions(-)
+To git@github.com:catenate/catenate.github.com.git
+   31a5fe1..1d5409e  master -> master
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+[2010-07-04 18:01:37] INFO  WEBrick 1.3.1
+[2010-07-04 18:01:37] INFO  ruby 1.9.1 (2010-01-10) [x86_64-linux]
+[2010-07-04 18:01:43] INFO  WEBrick::HTTPServer#start: pid=13553 port=4000
+localhost - - [04/Jul/2010:18:02:15 CDT] "GET / HTTP/1.1" 200 1460
+- -> /
+localhost - - [04/Jul/2010:18:02:15 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 18:02:15] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:02:15 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:18:03:16 CDT] "GET / HTTP/1.1" 200 1149
+- -> /
+localhost - - [04/Jul/2010:18:03:16 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 18:03:17] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:03:17 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:18:04:50 CDT] "GET / HTTP/1.1" 200 1149
+- -> /
+localhost - - [04/Jul/2010:18:04:50 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 18:04:50] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:04:50 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:18:10:31 CDT] "GET / HTTP/1.1" 200 1149
+- -> /
+localhost - - [04/Jul/2010:18:10:31 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 18:10:31] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:10:31 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:18:11:53 CDT] "GET / HTTP/1.1" 200 1149
+- -> /
+localhost - - [04/Jul/2010:18:11:53 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 18:11:53] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:11:53 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [04/Jul/2010:18:12:18 CDT] "GET /2010/07/better-symbols-for-programming-languages HTTP/1.1" 301 130
+Referer -> /2010/07/better-symbols-for-programming-languages
+localhost - - [04/Jul/2010:18:12:18 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 849
+Referer -> /2010/07/better-symbols-for-programming-languages/
+localhost - - [04/Jul/2010:18:12:18 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-07-04 18:12:40] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:12:40 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:18:14:34 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 919
+Referer -> /2010/07/better-symbols-for-programming-languages/
+localhost - - [04/Jul/2010:18:14:34 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 18:14:42] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:14:42 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-07-04 18:15:00] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:15:00 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:18:15:32 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 919
+Referer -> /2010/07/better-symbols-for-programming-languages/
+localhost - - [04/Jul/2010:18:15:39 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 18:15:56] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:15:56 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-07-04 18:16:14] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:16:14 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:18:35:36 CDT] "GET / HTTP/1.1" 200 1399
+- -> /
+localhost - - [04/Jul/2010:18:35:36 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 18:35:36] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:35:36 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:18:36:06 CDT] "GET / HTTP/1.1" 200 1389
+- -> /
+localhost - - [04/Jul/2010:18:36:06 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 18:36:06] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:36:06 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [04/Jul/2010:18:36:27 CDT] "GET /2010/07/this-site HTTP/1.1" 301 68
+Referer -> /2010/07/this-site
+[2010-07-04 18:36:27] ERROR Errno::ECONNRESET: Connection reset by peer
+	/usr/lib/ruby/1.9.1/webrick/httpserver.rb:56:in `eof?'
+	/usr/lib/ruby/1.9.1/webrick/httpserver.rb:56:in `run'
+	/usr/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+localhost - - [04/Jul/2010:18:36:27 CDT] "GET /2010/07/this-site/ HTTP/1.1" 200 546
+Referer -> /2010/07/this-site/
+localhost - - [04/Jul/2010:18:36:27 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-07-04 18:36:31] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:36:31 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [04/Jul/2010:18:36:43 CDT] "GET /2010/07/this-site/ HTTP/1.1" 304 0
+- -> /2010/07/this-site/
+localhost - - [04/Jul/2010:18:36:43 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-07-04 18:37:25] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:37:25 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:18:37:44 CDT] "GET / HTTP/1.1" 200 1389
+- -> /
+localhost - - [04/Jul/2010:18:37:44 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 18:37:44] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:37:44 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [04/Jul/2010:18:37:49 CDT] "GET / HTTP/1.1" 304 0
+- -> /
+localhost - - [04/Jul/2010:18:37:49 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-07-04 18:37:49] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:37:49 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [04/Jul/2010:18:37:53 CDT] "GET /2010/07/this-site/ HTTP/1.1" 200 546
+Referer -> /2010/07/this-site/
+localhost - - [04/Jul/2010:18:37:53 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+localhost - - [04/Jul/2010:18:37:54 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 849
+Referer -> /2010/07/better-symbols-for-programming-languages/
+[2010-07-04 18:38:01] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:38:01 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-07-04 18:38:03] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:38:03 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-07-04 18:38:22] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:38:22 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:18:50:11 CDT] "GET / HTTP/1.1" 200 1641
+- -> /
+localhost - - [04/Jul/2010:18:50:11 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 18:50:11] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:50:11 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:18:51:27 CDT] "GET / HTTP/1.1" 200 1656
+- -> /
+localhost - - [04/Jul/2010:18:51:27 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 18:51:27] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:51:27 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:18:52:08 CDT] "GET / HTTP/1.1" 200 1656
+- -> /
+localhost - - [04/Jul/2010:18:52:08 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 18:52:08] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:52:08 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:18:52:46 CDT] "GET / HTTP/1.1" 200 1646
+- -> /
+localhost - - [04/Jul/2010:18:52:46 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 18:52:46] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:52:46 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:18:53:08 CDT] "GET / HTTP/1.1" 200 1656
+- -> /
+localhost - - [04/Jul/2010:18:53:08 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 18:53:09] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:53:09 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:18:53:39 CDT] "GET / HTTP/1.1" 200 1655
+- -> /
+localhost - - [04/Jul/2010:18:53:39 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 18:53:39] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:18:53:39 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [04/Jul/2010:19:09:04 CDT] "GET / HTTP/1.1" 304 0
+- -> /
+localhost - - [04/Jul/2010:19:09:04 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-07-04 19:09:04] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:09:04 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [04/Jul/2010:19:09:34 CDT] "GET /2010/07/web-presence HTTP/1.1" 301 74
+Referer -> /2010/07/web-presence
+[2010-07-04 19:09:34] ERROR Errno::ECONNRESET: Connection reset by peer
+	/usr/lib/ruby/1.9.1/webrick/httpserver.rb:56:in `eof?'
+	/usr/lib/ruby/1.9.1/webrick/httpserver.rb:56:in `run'
+	/usr/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+localhost - - [04/Jul/2010:19:09:34 CDT] "GET /2010/07/web-presence/ HTTP/1.1" 200 847
+Referer -> /2010/07/web-presence/
+[2010-07-04 19:09:39] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:09:39 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:19:12:09 CDT] "GET /2010/07/web-presence/ HTTP/1.1" 200 847
+Referer -> /2010/07/web-presence/
+localhost - - [04/Jul/2010:19:12:09 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 19:12:34] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:12:34 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:19:13:30 CDT] "GET /2010/07/web-presence/ HTTP/1.1" 200 852
+Referer -> /2010/07/web-presence/
+localhost - - [04/Jul/2010:19:13:30 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 19:13:44] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:13:44 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [04/Jul/2010:19:14:23 CDT] "GET / HTTP/1.1" 200 1655
+- -> /
+localhost - - [04/Jul/2010:19:14:23 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-07-04 19:14:23] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:14:23 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:19:15:48 CDT] "GET / HTTP/1.1" 200 1390
+- -> /
+localhost - - [04/Jul/2010:19:15:48 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 19:15:48] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:15:48 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+
+ ___________________________________________________________________________
+| Maruku tells you:
++---------------------------------------------------------------------------
+| Could not find ref_id = "so" for md_link(["Stack Overflow"],"so")
+| Available refs are ["id"]
++---------------------------------------------------------------------------
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/errors_management.rb:49:in `maruku_error'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/output/to_html.rb:716:in `to_html_link'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/output/to_html.rb:970:in `block in array_to_html'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/output/to_html.rb:961:in `each'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/output/to_html.rb:961:in `array_to_html'
+\___________________________________________________________________________
+Not creating a link for ref_id = "so".Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:19:25:44 CDT] "GET / HTTP/1.1" 200 1390
+- -> /
+localhost - - [04/Jul/2010:19:25:44 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 19:25:44] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:25:44 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [04/Jul/2010:19:25:50 CDT] "GET /2010/07/web-presence/ HTTP/1.1" 200 1148
+Referer -> /2010/07/web-presence/
+localhost - - [04/Jul/2010:19:25:50 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-07-04 19:25:52] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:25:52 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:19:47:40 CDT] "GET / HTTP/1.1" 200 1099
+- -> /
+localhost - - [04/Jul/2010:19:47:40 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 19:47:40] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:47:40 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [04/Jul/2010:19:47:55 CDT] "GET /2010/07/web-presence/ HTTP/1.1" 200 1172
+Referer -> /2010/07/web-presence/
+localhost - - [04/Jul/2010:19:47:55 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-07-04 19:48:00] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:48:00 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:19:49:35 CDT] "GET / HTTP/1.1" 200 1099
+- -> /
+localhost - - [04/Jul/2010:19:49:35 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 19:49:35] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:49:35 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [04/Jul/2010:19:49:40 CDT] "GET / HTTP/1.1" 304 0
+- -> /
+localhost - - [04/Jul/2010:19:49:40 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-07-04 19:49:40] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:49:40 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:19:50:17 CDT] "GET / HTTP/1.1" 200 900
+- -> /
+localhost - - [04/Jul/2010:19:50:17 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 19:50:17] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:50:17 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:19:53:01 CDT] "GET / HTTP/1.1" 200 900
+- -> /
+localhost - - [04/Jul/2010:19:53:01 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 19:53:02] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:53:02 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:19:53:27 CDT] "GET / HTTP/1.1" 200 900
+- -> /
+localhost - - [04/Jul/2010:19:53:27 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 19:53:27] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:53:27 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:19:55:01 CDT] "GET / HTTP/1.1" 200 900
+- -> /
+localhost - - [04/Jul/2010:19:55:01 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 19:55:01] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:55:01 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:19:55:29 CDT] "GET / HTTP/1.1" 200 900
+- -> /
+localhost - - [04/Jul/2010:19:55:29 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 19:55:29] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:55:29 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [04/Jul/2010:19:55:36 CDT] "GET /2010/07/web-presence/ HTTP/1.1" 200 1159
+Referer -> /2010/07/web-presence/
+localhost - - [04/Jul/2010:19:55:36 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-07-04 19:55:38] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:55:38 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:19:57:17 CDT] "GET / HTTP/1.1" 200 900
+- -> /
+localhost - - [04/Jul/2010:19:57:17 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 19:57:17] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:57:17 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:19:58:47 CDT] "GET / HTTP/1.1" 200 900
+- -> /
+localhost - - [04/Jul/2010:19:58:47 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 19:58:47] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:58:47 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:19:59:17 CDT] "GET / HTTP/1.1" 200 900
+- -> /
+localhost - - [04/Jul/2010:19:59:17 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 19:59:17] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:19:59:17 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:19:59:59 CDT] "GET / HTTP/1.1" 200 900
+- -> /
+localhost - - [04/Jul/2010:19:59:59 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 20:00:00] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:00:00 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [04/Jul/2010:20:00:45 CDT] "GET /2010/07/web-presence/ HTTP/1.1" 200 1164
+Referer -> /2010/07/web-presence/
+localhost - - [04/Jul/2010:20:00:45 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+localhost - - [04/Jul/2010:20:00:46 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 848
+Referer -> /2010/07/better-symbols-for-programming-languages/
+[2010-07-04 20:00:49] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:00:49 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-07-04 20:00:50] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:00:50 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-07-04 20:00:56] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:00:56 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:20:04:01 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 1002
+Referer -> /2010/07/better-symbols-for-programming-languages/
+localhost - - [04/Jul/2010:20:04:09 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 20:04:19] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:04:19 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-07-04 20:04:40] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:04:40 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:20:11:20 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 1328
+Referer -> /2010/07/better-symbols-for-programming-languages/
+localhost - - [04/Jul/2010:20:11:24 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 20:11:34] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:11:34 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-07-04 20:11:53] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:11:53 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:20:12:08 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 1319
+Referer -> /2010/07/better-symbols-for-programming-languages/
+localhost - - [04/Jul/2010:20:12:19 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 20:12:30] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:12:30 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-07-04 20:12:48] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:12:48 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:20:13:17 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 1317
+Referer -> /2010/07/better-symbols-for-programming-languages/
+localhost - - [04/Jul/2010:20:13:19 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 20:13:24] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:13:24 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:20:14:08 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 1319
+Referer -> /2010/07/better-symbols-for-programming-languages/
+localhost - - [04/Jul/2010:20:14:08 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 20:14:08] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:14:08 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-07-04 20:14:25] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:14:25 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-07-04 20:14:47] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:14:47 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [04/Jul/2010:20:15:55 CDT] "GET / HTTP/1.1" 200 900
+- -> /
+localhost - - [04/Jul/2010:20:15:55 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-07-04 20:15:55] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:15:55 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:20:19:24 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 1332
+Referer -> /2010/07/better-symbols-for-programming-languages/
+localhost - - [04/Jul/2010:20:19:26 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 20:19:58] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:19:58 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-07-04 20:20:24] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:20:24 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:20:25:09 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 1534
+Referer -> /2010/07/better-symbols-for-programming-languages/
+localhost - - [04/Jul/2010:20:25:11 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 20:25:20] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:25:20 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-07-04 20:25:40] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:25:40 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:20:44:28 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 2332
+Referer -> /2010/07/better-symbols-for-programming-languages/
+localhost - - [04/Jul/2010:20:44:31 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+[2010-07-04 20:45:11] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:45:11 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [04/Jul/2010:20:45:53 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 2323
+Referer -> /2010/07/better-symbols-for-programming-languages/
+localhost - - [04/Jul/2010:20:45:59 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 20:46:13] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:46:13 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-07-04 20:46:32] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:20:46:32 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:22:03:53 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 3244
+Referer -> /2010/07/better-symbols-for-programming-languages/
+localhost - - [04/Jul/2010:22:03:57 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 22:05:04] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:22:05:04 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:22:08:31 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 3577
+Referer -> /2010/07/better-symbols-for-programming-languages/
+localhost - - [04/Jul/2010:22:08:39 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 22:09:30] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:22:09:30 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:22:09:49 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 3538
+Referer -> /2010/07/better-symbols-for-programming-languages/
+localhost - - [04/Jul/2010:22:09:50 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 22:09:57] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:22:09:57 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+[2010-07-04 23:28:59] INFO  WEBrick 1.3.1
+[2010-07-04 23:28:59] INFO  ruby 1.9.1 (2010-01-10) [x86_64-linux]
+[2010-07-04 23:29:05] INFO  WEBrick::HTTPServer#start: pid=30761 port=4000
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:23:46:40 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 4323
+Referer -> /2010/07/better-symbols-for-programming-languages/
+localhost - - [04/Jul/2010:23:46:43 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 23:47:05] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:23:47:05 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [04/Jul/2010:23:47:27 CDT] "GET / HTTP/1.1" 200 900
+- -> /
+localhost - - [04/Jul/2010:23:47:27 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-07-04 23:47:27] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:23:47:27 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-07-04 23:47:29] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:23:47:29 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [04/Jul/2010:23:47:48 CDT] "GET /2010/07/web-presence/ HTTP/1.1" 200 1164
+Referer -> /2010/07/web-presence/
+localhost - - [04/Jul/2010:23:47:48 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-07-04 23:47:52] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:23:47:52 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [04/Jul/2010:23:50:49 CDT] "GET /2010/07/web-presence/ HTTP/1.1" 200 1146
+Referer -> /2010/07/web-presence/
+localhost - - [04/Jul/2010:23:50:49 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-04 23:51:02] ERROR `/favicon.ico' not found.
+localhost - - [04/Jul/2010:23:51:02 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [05/Jul/2010:00:12:02 CDT] "GET /2010/07/web-presence/ HTTP/1.1" 304 0
+Referer -> /2010/07/web-presence/
+localhost - - [05/Jul/2010:00:12:03 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+localhost - - [05/Jul/2010:00:12:03 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 4323
+Referer -> /2010/07/better-symbols-for-programming-languages/
+[2010-07-05 00:12:04] ERROR `/favicon.ico' not found.
+localhost - - [05/Jul/2010:00:12:04 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-07-05 00:12:16] ERROR `/favicon.ico' not found.
+localhost - - [05/Jul/2010:00:12:16 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-07-05 00:12:22] ERROR `/favicon.ico' not found.
+localhost - - [05/Jul/2010:00:12:22 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [05/Jul/2010:00:28:05 CDT] "GET / HTTP/1.1" 200 900
+- -> /
+localhost - - [05/Jul/2010:00:28:05 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-05 00:28:05] ERROR `/favicon.ico' not found.
+localhost - - [05/Jul/2010:00:28:05 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [05/Jul/2010:00:28:13 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 4851
+Referer -> /2010/07/better-symbols-for-programming-languages/
+localhost - - [05/Jul/2010:00:28:13 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-07-05 00:28:21] ERROR `/favicon.ico' not found.
+localhost - - [05/Jul/2010:00:28:21 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [05/Jul/2010:00:30:02 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 4856
+Referer -> /2010/07/better-symbols-for-programming-languages/
+localhost - - [05/Jul/2010:00:30:06 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-05 00:30:34] ERROR `/favicon.ico' not found.
+localhost - - [05/Jul/2010:00:30:34 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+[2010-07-05 00:30:53] ERROR `/favicon.ico' not found.
+localhost - - [05/Jul/2010:00:30:53 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 4856
+Referer -> /2010/07/better-symbols-for-programming-languages/
+localhost - - [05/Jul/2010:00:30:53 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+localhost - - [05/Jul/2010:00:30:53 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-07-05 00:31:08] ERROR `/favicon.ico' not found.
+localhost - - [05/Jul/2010:00:31:08 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-07-05 00:31:26] ERROR `/favicon.ico' not found.
+localhost - - [05/Jul/2010:00:31:26 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   _layouts/post.html
+#	modified:   acme.dump
+#	modified:   css/screen.css
+#	modified:   guide
+#	modified:   index.html
+#
+# Untracked files:
+#   (use "git add _layouts/draft.html _posts/2010-07-04-better-symbols-for-programming-languages.markdown _posts/2010-07-04-web-presence.markdown
+no changes added to commit (use "git add" and/or "git commit -a")
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   _layouts/draft.html
+#	new file:   _posts/2010-07-04-better-symbols-for-programming-languages.markdown
+#	new file:   _posts/2010-07-04-web-presence.markdown
+#
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   _layouts/post.html
+#	modified:   acme.dump
+#	modified:   css/screen.css
+#	modified:   guide
+#	modified:   index.html
+#
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   _layouts/draft.html
+#	new file:   _posts/2010-07-04-better-symbols-for-programming-languages.markdown
+#	new file:   _posts/2010-07-04-web-presence.markdown
+#
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   _layouts/post.html
+#	modified:   acme.dump
+#	modified:   css/screen.css
+#	modified:   guide
+#	modified:   index.html
+#
+f          1          15         211         222  41.2854031 
+         15          62        2693           0           0 /home/jdc/git/catenate.github.com/guide Del Snarf Undo | Look 
+F          1           2          40          40  94.0087146          40 
+         16          66          40           0           1 /home/jdc/git/catenate.github.com/_posts/+Errors Del Snarf | Look 
+    163
+    139
+    144
+     79
+     79
+f          1          17           0           0  96.0784314 
+         17          43        3374           1           0 /home/jdc/Dropbox/nb/ Del Snarf Get | Look 
+F          1           4         319         319  98.1481481         455 
+         18          55         455           0           1 /home/jdc/Dropbox/nb/+Errors Del Snarf Undo Put | Look 
+uchar ⊻
+225F  ?=          ≟	questioned equal to
+uchar: exit 1
+225F  ?=          ≟	questioned equal to
+uchar: exit 1
+22BB  v_          ⊻	xor
+22bb	⊻	xor
+uchar: exit 1
+uchar ∧
+22C0  L&          ⋀	n-ary logical and
+22c0	⋀	n-ary logical and
+uchar: exit 1
+22C1  L|          ⋁	n-ary logical or
+uchar: exit 1
+2228  l|          
+2228	∨	logical or, vee, disjunction
+uchar: exit 1
+2227  l&          ∧	logical and
+2227	∧	logical and, wedge, conjunction
+uchar: exit 1

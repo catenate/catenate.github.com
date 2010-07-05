@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: Better symbols for programming languages
+title: Beautiful operators for C-influenced programming languages
 categories: draft
 ---
 For beauty, lexers should accept (not mandate) Unicode and alternative  
@@ -34,6 +34,8 @@ outside of programming languages.  Several languages offer a named
 function, usually `pow` for power, but since it takes options and might  
 need qualified with a library name it is not usually succinct.  I prefer  
 `↑` (up arrow), which scales well with Knuth’s up-arrow notation.  
+
+*C*
 
 *Go*
 
@@ -87,3 +89,5 @@ desired extension.
 
 	%: %.lhs
 		ghc -o $stem $stem.lhs 2>&1 | sed 's,\.lhs,.ℓhs,'
+
+*Ruby*

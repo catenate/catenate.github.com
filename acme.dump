@@ -12,15 +12,15 @@ f          0           2          44          44   4.1394336
 f          0           3         325         325   6.2091503 
           3          71         528           0           0 /home/jdc/git/catenate.github.com/_layouts/draft.html Del Snarf | Look 
 f          0           4           0           0   8.2788671 
-          4          63         219           1           0 /home/jdc/git/catenate.github.com/_posts/ Del Snarf Get | Look 
-f          0           5        1362        1362  10.3485839 
-          5         155        3769           0           0 /home/jdc/git/catenate.github.com/_posts/2010-07-04-better-symbols-for-programming-languages.markdown Del Snarf Undo | Look Font 
+          4          63         237           1           0 /home/jdc/git/catenate.github.com/_posts/ Del Snarf Get | Look 
+f          0           5         101         101  94.0087146 
+          5         173        3800           0           0 /home/jdc/git/catenate.github.com/_posts/2010-07-04-beautiful-operators-for-c-influenced-programming-languages.markdown Del Snarf Undo | Look Font 
 f          0           6         548         548  96.0784314 
           6         127         548           0           0 /home/jdc/git/catenate.github.com/_posts/2010-07-04-web-presence.markdown Del Snarf Undo | Look Font 
 f          0          11        1201        1201  98.1481481 
          11          66        1201           0           0 /home/jdc/git/pnblic/nb/20100704 Del Snarf Undo | Look 
-F          1           0      156632      156632   2.0697168      156632 
-         14          68      156632           0           1 /home/jdc/git/catenate.github.com/+Errors Del Snarf Undo Put | Look 
+F          1           0      163436      163436   2.0697168      163436 
+         14          68      163436           0           1 /home/jdc/git/catenate.github.com/+Errors Del Snarf Undo Put | Look 
 Initialized empty Git repository in /home/jdc/git/catenate.github.com/.git/
 # On branch master
 #
@@ -2922,8 +2922,134 @@ no changes added to commit (use "git add" and/or "git commit -a")
 #	modified:   guide
 #	modified:   index.html
 #
-f          1          15         211         222  41.2854031 
-         15          62        2693           0           0 /home/jdc/git/catenate.github.com/guide Del Snarf Undo | Look 
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   _layouts/draft.html
+#	new file:   _posts/2010-07-04-better-symbols-for-programming-languages.markdown
+#	new file:   _posts/2010-07-04-web-presence.markdown
+#
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   _layouts/post.html
+#	modified:   acme.dump
+#	modified:   css/screen.css
+#	modified:   guide
+#	modified:   index.html
+#
+[master 8ec1bf1] Rework index; add web presence; add symbols draft.
+ 8 files changed, 1093 insertions(+), 65 deletions(-)
+ create mode 100644 _layouts/draft.html
+ create mode 100644 _posts/2010-07-04-better-symbols-for-programming-languages.markdown
+ create mode 100644 _posts/2010-07-04-web-presence.markdown
+ rewrite index.html (73%)
+To git@github.com:catenate/catenate.github.com.git
+   1d5409e..8ec1bf1  master -> master
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   _posts/2010-07-04-better-symbols-for-programming-languages.markdown
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [05/Jul/2010:00:44:01 CDT] "GET /2010/07/better-symbols-for-programming-languages/ HTTP/1.1" 200 4897
+Referer -> /2010/07/better-symbols-for-programming-languages/
+localhost - - [05/Jul/2010:00:44:01 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-05 00:44:21] ERROR `/favicon.ico' not found.
+localhost - - [05/Jul/2010:00:44:21 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+[2010-07-05 00:44:39] ERROR `/favicon.ico' not found.
+localhost - - [05/Jul/2010:00:44:39 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [05/Jul/2010:08:45:00 CDT] "GET / HTTP/1.1" 200 1223
+- -> /
+localhost - - [05/Jul/2010:08:45:00 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-05 08:45:00] ERROR `/favicon.ico' not found.
+localhost - - [05/Jul/2010:08:45:00 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [05/Jul/2010:08:46:27 CDT] "GET / HTTP/1.1" 200 910
+- -> /
+localhost - - [05/Jul/2010:08:46:27 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-05 08:46:27] ERROR `/favicon.ico' not found.
+localhost - - [05/Jul/2010:08:46:27 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [05/Jul/2010:08:46:31 CDT] "GET /2010/07/beautiful-operators-for-programming-languages HTTP/1.1" 301 140
+Referer -> /2010/07/beautiful-operators-for-programming-languages
+localhost - - [05/Jul/2010:08:46:31 CDT] "GET /2010/07/beautiful-operators-for-programming-languages/ HTTP/1.1" 200 4907
+Referer -> /2010/07/beautiful-operators-for-programming-languages/
+[2010-07-05 08:46:37] ERROR `/favicon.ico' not found.
+localhost - - [05/Jul/2010:08:46:37 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [05/Jul/2010:08:48:01 CDT] "GET / HTTP/1.1" 200 936
+- -> /
+localhost - - [05/Jul/2010:08:48:01 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-05 08:48:01] ERROR `/favicon.ico' not found.
+localhost - - [05/Jul/2010:08:48:01 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [05/Jul/2010:08:48:07 CDT] "GET /2010/07/beautiful-operators-for-c-influenced-programming-languages HTTP/1.1" 301 166
+Referer -> /2010/07/beautiful-operators-for-c-influenced-programming-languages
+localhost - - [05/Jul/2010:08:48:07 CDT] "GET /2010/07/beautiful-operators-for-c-influenced-programming-languages/ HTTP/1.1" 200 4933
+Referer -> /2010/07/beautiful-operators-for-c-influenced-programming-languages/
+localhost - - [05/Jul/2010:08:48:07 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-07-05 08:48:10] ERROR `/favicon.ico' not found.
+localhost - - [05/Jul/2010:08:48:10 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+localhost - - [05/Jul/2010:08:48:40 CDT] "GET /2010/07/beautiful-operators-for-c-influenced-programming-languages/ HTTP/1.1" 304 0
+Referer -> /2010/07/beautiful-operators-for-c-influenced-programming-languages/
+localhost - - [05/Jul/2010:08:48:40 CDT] "GET /css/screen.css HTTP/1.1" 304 0
+Referer -> /css/screen.css
+[2010-07-05 08:48:43] ERROR `/favicon.ico' not found.
+localhost - - [05/Jul/2010:08:48:43 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+# On branch master
+# Changed but not updated:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	deleted:    _posts/2010-07-04-better-symbols-for-programming-languages.markdown
+#
+# Untracked files:
+#   (use "git add _posts/2010-07-04-beautiful-operators-for-c-influenced-programming-languages.markdown
+no changes added to commit (use "git add" and/or "git commit -a")
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   _posts/2010-07-04-beautiful-operators-for-c-influenced-programming-languages.markdown
+#
+# Changed but not updated:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	deleted:    _posts/2010-07-04-better-symbols-for-programming-languages.markdown
+#
+f          1          15         222         287  41.2854031 
+         15          62        2665           0           0 /home/jdc/git/catenate.github.com/guide Del Snarf Undo | Look 
 F          1           2          40          40  94.0087146          40 
          16          66          40           0           1 /home/jdc/git/catenate.github.com/_posts/+Errors Del Snarf | Look 
     163

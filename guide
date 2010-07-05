@@ -10,7 +10,7 @@ ps -a | grep jekyll
 http://0.0.0.0:4000
 
 git status
-git commit -a -m 'Rework index; add web presence; add symbols draft.'
+git commit -a -m 'Rename operators post.'
 git push origin master
 
 Instructions for setting up username.github.com *

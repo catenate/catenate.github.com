@@ -11,7 +11,7 @@ ps -a | grep jekyll
 http://0.0.0.0:4000
 
 git status
-git commit -a -m 'Add C and Ruby sed scripts.'
+git commit -a -m 'Add a blank line before comments.'
 git push origin master
 
 Instructions for setting up username.github.com *

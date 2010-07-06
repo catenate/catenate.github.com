@@ -2,7 +2,7 @@
 /usr/local/plan9/font/times/latin1.7a.font
 /home/jdc/opt/src/icons/icons.14.font
   0.0000000  59.8437500
-w jekyll jekyll jekyll jekyll jekyll Newcol Kill Putall Dump acme.dump Exit 
+w jekyll jekyll jekyll jekyll jekyll jekyll Newcol Kill Putall Dump acme.dump Exit 
 c          0 New Cut Paste Snarf Sort Zerox Delcol 
 c          1 New Cut Paste Snarf Sort Zerox Delcol 
 f          0           1           0           0   2.0697168 
@@ -13,14 +13,16 @@ f          0           3         325         325   6.2091503
           3          71         528           0           0 /home/jdc/git/catenate.github.com/_layouts/draft.html Del Snarf | Look 
 f          0           4           0           0   8.2788671 
           4          63         237           1           0 /home/jdc/git/catenate.github.com/_posts/ Del Snarf Get | Look 
-f          0           5         101         101  94.0087146 
-          5         173        3800           0           0 /home/jdc/git/catenate.github.com/_posts/2010-07-04-beautiful-operators-for-c-influenced-programming-languages.markdown Del Snarf Undo | Look Font 
-f          0           6         548         548  96.0784314 
-          6         127         548           0           0 /home/jdc/git/catenate.github.com/_posts/2010-07-04-web-presence.markdown Del Snarf Undo | Look Font 
-f          0          11        1201        1201  98.1481481 
-         11          66        1201           0           0 /home/jdc/git/pnblic/nb/20100704 Del Snarf Undo | Look 
-F          1           0      163436      163436   2.0697168      163436 
-         14          68      163436           0           1 /home/jdc/git/catenate.github.com/+Errors Del Snarf Undo Put | Look 
+f          0           5        2238        2238  10.3485839 
+          5         187        4515           0           0 /home/jdc/git/catenate.github.com/_posts/2010-07-04-beautiful-operators-for-c-influenced-programming-languages.markdown Del Snarf Undo | Look Font 
+f          0          13           0           0  91.9389978 
+         13          47         243           1           0 /home/jdc/git/tictestrue/ Del Snarf Get | Look 
+f          0           6         548         548  94.0087146 
+          6          96         548           0           0 /home/jdc/git/catenate.github.com/_posts/2010-07-04-web-presence.markdown Del Snarf | Look Font 
+f          0           7        1201        1201  96.0784314 
+          7          50        1201           0           0 /home/jdc/git/pnblic/nb/20100704 Del Snarf | Look 
+F          1           0      178805      178805   2.0697168      178805 
+          8          68      178805           0           1 /home/jdc/git/catenate.github.com/+Errors Del Snarf Undo Put | Look 
 Initialized empty Git repository in /home/jdc/git/catenate.github.com/.git/
 # On branch master
 #
@@ -3048,19 +3050,278 @@ no changes added to commit (use "git add" and/or "git commit -a")
 #
 #	deleted:    _posts/2010-07-04-better-symbols-for-programming-languages.markdown
 #
-f          1          15         222         287  41.2854031 
-         15          62        2665           0           0 /home/jdc/git/catenate.github.com/guide Del Snarf Undo | Look 
-F          1           2          40          40  94.0087146          40 
-         16          66          40           0           1 /home/jdc/git/catenate.github.com/_posts/+Errors Del Snarf | Look 
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   _posts/2010-07-04-beautiful-operators-for-c-influenced-programming-languages.markdown
+#
+# Changed but not updated:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	deleted:    _posts/2010-07-04-better-symbols-for-programming-languages.markdown
+#	modified:   acme.dump
+#	modified:   guide
+#
+[master 593fc10] Rename operators post.
+ 3 files changed, 139 insertions(+), 9 deletions(-)
+ rename _posts/{2010-07-04-better-symbols-for-programming-languages.markdown => 2010-07-04-beautiful-operators-for-c-influenced-programming-languages.markdown} (97%)
+To git@github.com:catenate/catenate.github.com.git
+   8ec1bf1..593fc10  master -> master
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+
+ ___________________________________________________________________________
+| Maruku tells you:
++---------------------------------------------------------------------------
+| Could not find ref_id = "" for md_link(["?"],"")
+| Available refs are ["unigo", "sgo"]
++---------------------------------------------------------------------------
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/errors_management.rb:49:in `maruku_error'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/output/to_html.rb:716:in `to_html_link'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/output/to_html.rb:970:in `block in array_to_html'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/output/to_html.rb:961:in `each'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/output/to_html.rb:961:in `array_to_html'
+\___________________________________________________________________________
+Not creating a link for ref_id = "".Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+[2010-07-06 00:00:00] INFO  WEBrick 1.3.1
+[2010-07-06 00:00:00] INFO  ruby 1.9.1 (2010-01-10) [x86_64-linux]
+[2010-07-06 00:00:06] INFO  WEBrick::HTTPServer#start: pid=22417 port=4000
+localhost - - [06/Jul/2010:00:00:06 CDT] "GET /2010/07/beautiful-operators-for-c-influenced-programming-languages/ HTTP/1.1" 200 5213
+Referer -> /2010/07/beautiful-operators-for-c-influenced-programming-languages/
+localhost - - [06/Jul/2010:00:00:06 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-06 00:00:24] ERROR `/favicon.ico' not found.
+localhost - - [06/Jul/2010:00:00:24 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+
+ ___________________________________________________________________________
+| Maruku tells you:
++---------------------------------------------------------------------------
+| Unclosed span (waiting for ["*"])
+| ---------------------------------------------------------------------------
+| his script also serves for Go, if replacing the  Nscanner is unpalatable.  EOF
+| ---------------------------------------------------------------------------|
+|                                                                            +--- Byte 165
+| Shown bytes [90 to 75] of 165:
+| >Similar to Haskell, this sed script translates the *.ℓ (C/lex) files  
+| >I usually write.  This script also serves for Go, if replacing the  
+| >scanner is unpalatable.  
+| 
+| At line 38
+|       text     |Similar to Haskell, this sed script translates the *.ℓ (C/lex) files  |
+|       text     |I usually write.  This script also serves for Go, if replacing the  |
+|       text     |scanner is unpalatable.  |
+|      empty --> ||
+|       code     |	s,=\?,==,g|
+|       code     |	s,¬,!,g|
+|       code     |	s,–,-,g|
+| 
+| 
+| Elements read in span: 
+|  -".ℓ (C/lex) files"
+|  -md_el(:linebreak,[],{},[])
+|  -"I usually write. This script also serves for Go, if replacing the"
+|  -md_el(:linebreak,[],{},[])
+| Current string: 
+|   "scanner is unpalatable. "
++---------------------------------------------------------------------------
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/errors_management.rb:49:in `maruku_error'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/input/parse_span_better.rb:222:in `read_span'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/input/parse_span_better.rb:423:in `read_em'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/input/parse_span_better.rb:177:in `read_span'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/input/parse_span_better.rb:46:in `parse_span_better'
+\___________________________________________________________________________
+
+ ___________________________________________________________________________
+| Maruku tells you:
++---------------------------------------------------------------------------
+| Unclosed span (waiting for ["*"])
+| ---------------------------------------------------------------------------
+| version] [] of the scanner function is always more or less  Nout of date.  EOF
+| ---------------------------------------------------------------------------|
+|                                                                            +--- Byte 247
+| Shown bytes [172 to 75] of 247:
+| >[This post] [] describes the approach: replace the scanner function of the  
+| >formatter `gofmt`, then run *.ℊℴ source code through the formatter before  
+| >the compiler.  [My version] [] of the scanner function is always more or less  
+| >out of date.  
+| 
+| At line 72
+|       text     |formatter `gofmt`, then run *.ℊℴ source code through the formatter before  |
+|       text     |the compiler.  [My version] [] of the scanner function is always more or less  |
+|       text     |out of date.  |
+| ref_definition --> |[This post]: http://swtools.wordpress.com/2010/02/10/update-go-scanner-to-accept-non-ascii-operators/ "Update Go scanner to accept non-ASCII operators"|
+| ref_definition     |[My version]: http://dl.dropbox.com/u/502901/scanner.go "scanner.go"|
+|      empty     ||
+|       text     |*Haskell*|
+| 
+| 
+| Elements read in span: 
+|  -".ℊℴ source code through the formatter before"
+|  -md_el(:linebreak,[],{},[])
+|  -"the compiler. "
+|  -md_link(["My version"],"my_version")
+|  -" of the scanner function is always more or less"
+|  -md_el(:linebreak,[],{},[])
+| Current string: 
+|   "out of date. "
++---------------------------------------------------------------------------
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/errors_management.rb:49:in `maruku_error'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/input/parse_span_better.rb:222:in `read_span'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/input/parse_span_better.rb:423:in `read_em'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/input/parse_span_better.rb:177:in `read_span'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/input/parse_span_better.rb:46:in `parse_span_better'
+\___________________________________________________________________________
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+
+ ___________________________________________________________________________
+| Maruku tells you:
++---------------------------------------------------------------------------
+| Unclosed span (waiting for ["*"])
+| ---------------------------------------------------------------------------
+| his script also serves for Go, if replacing the  Nscanner is unpalatable.  EOF
+| ---------------------------------------------------------------------------|
+|                                                                            +--- Byte 165
+| Shown bytes [90 to 75] of 165:
+| >Similar to Haskell, this sed script translates the *.ℓ (C/lex) files  
+| >I usually write.  This script also serves for Go, if replacing the  
+| >scanner is unpalatable.  
+| 
+| At line 38
+|       text     |Similar to Haskell, this sed script translates the *.ℓ (C/lex) files  |
+|       text     |I usually write.  This script also serves for Go, if replacing the  |
+|       text     |scanner is unpalatable.  |
+|      empty --> ||
+|       code     |	s,=\?,==,g|
+|       code     |	s,¬,!,g|
+|       code     |	s,–,-,g|
+| 
+| 
+| Elements read in span: 
+|  -".ℓ (C/lex) files"
+|  -md_el(:linebreak,[],{},[])
+|  -"I usually write. This script also serves for Go, if replacing the"
+|  -md_el(:linebreak,[],{},[])
+| Current string: 
+|   "scanner is unpalatable. "
++---------------------------------------------------------------------------
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/errors_management.rb:49:in `maruku_error'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/input/parse_span_better.rb:222:in `read_span'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/input/parse_span_better.rb:423:in `read_em'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/input/parse_span_better.rb:177:in `read_span'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/input/parse_span_better.rb:46:in `parse_span_better'
+\___________________________________________________________________________
+
+ ___________________________________________________________________________
+| Maruku tells you:
++---------------------------------------------------------------------------
+| Unclosed span (waiting for ["*"])
+| ---------------------------------------------------------------------------
+| version] [] of the scanner function is always more or less  Nout of date.  EOF
+| ---------------------------------------------------------------------------|
+|                                                                            +--- Byte 247
+| Shown bytes [172 to 75] of 247:
+| >[This post] [] describes the approach: replace the scanner function of the  
+| >formatter `gofmt`, then run *.ℊℴ source code through the formatter before  
+| >the compiler.  [My version] [] of the scanner function is always more or less  
+| >out of date.  
+| 
+| At line 72
+|       text     |formatter `gofmt`, then run *.ℊℴ source code through the formatter before  |
+|       text     |the compiler.  [My version] [] of the scanner function is always more or less  |
+|       text     |out of date.  |
+| ref_definition --> |[This post]: http://swtools.wordpress.com/2010/02/10/update-go-scanner-to-accept-non-ascii-operators/ "Update Go scanner to accept non-ASCII operators"|
+| ref_definition     |[My version]: http://dl.dropbox.com/u/502901/scanner.go "scanner.go"|
+|      empty     ||
+|       text     |*Haskell*|
+| 
+| 
+| Elements read in span: 
+|  -".ℊℴ source code through the formatter before"
+|  -md_el(:linebreak,[],{},[])
+|  -"the compiler. "
+|  -md_link(["My version"],"my_version")
+|  -" of the scanner function is always more or less"
+|  -md_el(:linebreak,[],{},[])
+| Current string: 
+|   "out of date. "
++---------------------------------------------------------------------------
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/errors_management.rb:49:in `maruku_error'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/input/parse_span_better.rb:222:in `read_span'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/input/parse_span_better.rb:423:in `read_em'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/input/parse_span_better.rb:177:in `read_span'
+!/home/jdc/.gem/ruby/1.9.1/gems/maruku-0.6.0/lib/maruku/input/parse_span_better.rb:46:in `parse_span_better'
+\___________________________________________________________________________
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [06/Jul/2010:00:09:37 CDT] "GET /2010/07/beautiful-operators-for-c-influenced-programming-languages/ HTTP/1.1" 200 5778
+Referer -> /2010/07/beautiful-operators-for-c-influenced-programming-languages/
+localhost - - [06/Jul/2010:00:09:37 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-06 00:10:01] ERROR `/favicon.ico' not found.
+localhost - - [06/Jul/2010:00:10:01 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [06/Jul/2010:00:15:32 CDT] "GET /2010/07/beautiful-operators-for-c-influenced-programming-languages/ HTTP/1.1" 200 5821
+Referer -> /2010/07/beautiful-operators-for-c-influenced-programming-languages/
+localhost - - [06/Jul/2010:00:15:32 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-06 00:15:49] ERROR `/favicon.ico' not found.
+localhost - - [06/Jul/2010:00:15:49 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+/home/jdc/.gem/ruby/1.9.1/gems/liquid-2.0.0/lib/liquid/strainer.rb:48: warning: undefining `object_id' may cause serious problem
+Configuration from /home/jdc/git/catenate.github.com/_config.yml
+Building site: /home/jdc/git/catenate.github.com -> ./_site
+Successfully generated site: /home/jdc/git/catenate.github.com -> ./_site
+localhost - - [06/Jul/2010:00:15:56 CDT] "GET /2010/07/beautiful-operators-for-c-influenced-programming-languages/ HTTP/1.1" 200 5826
+Referer -> /2010/07/beautiful-operators-for-c-influenced-programming-languages/
+localhost - - [06/Jul/2010:00:15:56 CDT] "GET /css/screen.css HTTP/1.1" 200 372
+Referer -> /css/screen.css
+[2010-07-06 00:16:07] ERROR `/favicon.ico' not found.
+localhost - - [06/Jul/2010:00:16:07 CDT] "GET /favicon.ico HTTP/1.1" 404 279
+- -> /favicon.ico
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   _posts/2010-07-04-beautiful-operators-for-c-influenced-programming-languages.markdown
+#	modified:   acme.dump
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+f          1           9         236         247  46.8409586 
+          9          62        2690           0           0 /home/jdc/git/catenate.github.com/guide Del Snarf Undo | Look 
+F          1           2          40          40  85.7298475          40 
+         10          66          40           0           1 /home/jdc/git/catenate.github.com/_posts/+Errors Del Snarf | Look 
     163
     139
     144
      79
      79
-f          1          17           0           0  96.0784314 
-         17          43        3374           1           0 /home/jdc/Dropbox/nb/ Del Snarf Get | Look 
-F          1           4         319         319  98.1481481         455 
-         18          55         455           0           1 /home/jdc/Dropbox/nb/+Errors Del Snarf Undo Put | Look 
+f          1          11           0           0  87.7995643 
+         11          43        3374           1           0 /home/jdc/Dropbox/nb/ Del Snarf Get | Look 
+F          1           4         319         319  89.8692810         455 
+         12          46         455           0           1 /home/jdc/Dropbox/nb/+Errors Del Snarf | Look 
 uchar ⊻
 225F  ?=          ≟	questioned equal to
 uchar: exit 1
@@ -3081,3 +3342,11 @@ uchar: exit 1
 2227  l&          ∧	logical and
 2227	∧	logical and, wedge, conjunction
 uchar: exit 1
+f          1          15           0           0  91.9389978 
+         15          40         523           1           0 /home/jdc/Dropbox/ Del Snarf Get | Look 
+f          1          17           0           0  94.0087146 
+         17          48         677           1           0 /home/jdc/Dropbox/coredap/ Del Snarf Get | Look 
+f          1          16           0           0  96.0784314 
+         16          43        1080           1           0 /home/jdc/Dropbox/co/ Del Snarf Get | Look 
+f          1          18           0         247  98.1481481 
+         18          55         247           0           0 /home/jdc/Dropbox/coredap/toascii.sed Del Snarf | Look 

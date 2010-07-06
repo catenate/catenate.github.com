@@ -1,4 +1,5 @@
 /home/jdc/Dropbox/nb
+/home/jdc/git/tictestrue
 http://daringfireball.net/projects/markdown/syntax
 http://www.liquidmarkup.org/
 |fmt -w 72 |sed 's,$,  ,'
@@ -10,7 +11,7 @@ ps -a | grep jekyll
 http://0.0.0.0:4000
 
 git status
-git commit -a -m 'Rename operators post.'
+git commit -a -m 'Add C and Ruby sed scripts.'
 git push origin master
 
 Instructions for setting up username.github.com *

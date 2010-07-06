@@ -4,7 +4,7 @@ title: Beautiful operators for C-influenced programming languages
 categories: draft
 ---
 For beauty, lexers should accept (not mandate) Unicode and alternative  
-forms of operators, and translate them to standard forms.  It's a shame  
+forms of operators, and translate them to standard forms.  It’s a shame  
 that modern programming languages can accept Unicode strings and even  
 variable names, but cannot accept more pleasant operator forms.  
 This post lists corrected, alternative and subjectively-better operator  
@@ -37,19 +37,50 @@ need qualified with a library name it is not usually succinct.  I prefer
 
 *C*
 
+Similar to Haskell, this sed script translates the \*.ℓ files I usually write:  
+C with lex and Unicode characters.  This script also translates Go,  
+if replacing the file `scanner.go` is unpalatable.  
+
+	s,=\?,==,g
+	s,¬,!,g
+	s,–,-,g
+	s,…,...,g
+	s,←,<-,g
+	s,⇐,=,g
+	s,−,-,g
+	s,∧,\&,g
+	s,∧=,\&=,g
+	s,∧¬,\&^,g
+	s,∧¬=,\&^=,g
+	s,∨,|,g
+	s,∨=,|=,g
+	s,≔,:=,g
+	s,≟,==,g
+	s,≠,!=,g
+	s,≤,<=,g
+	s,≥,>=,g
+	s,≪,<<,g
+	s,≪=,<<=,g
+	s,≫,>>,g
+	s,≫=,>>=,g
+	s,⊻,^,g
+	s,⊻=,^=,g
+	s,⋀,\&\&,g
+	s,⋁,||,g
+
 *Go*
 
-[This post] [unigo] describes the approach: replace the scanner function of the  
-formatter `gofmt`, then run the source code through the formatter before  
-the compiler.  [My version] [sgo] of the scanner function is always more or less  
+[This post] [] describes the approach: replace the scanner function of the  
+formatter `gofmt`, then run \*.ℊℴ source code through the formatter before  
+the compiler.  [My version] [] of the scanner function is always more or less  
 out of date.  
-[unigo]: http://swtools.wordpress.com/2010/02/10/update-go-scanner-to-accept-non-ascii-operators/ "Update Go scanner to accept non-ASCII operators"
-[sgo]: http://dl.dropbox.com/u/502901/scanner.go "scanner.go"
+[This post]: http://swtools.wordpress.com/2010/02/10/update-go-scanner-to-accept-non-ascii-operators/ "Update Go scanner to accept non-ASCII operators"
+[My version]: http://dl.dropbox.com/u/502901/scanner.go "scanner.go"
 
 *Haskell*
 
 A single preprocessing step translates all alternative symbols to those  
-recognized by the language.  For example, a rule in Plan 9's mk to  
+recognized by the language.  For example, a rule in Plan 9’s mk to  
 translate a literate-Haskell source file.  
 
 	%.lhs: %.ℓhs
@@ -91,3 +122,17 @@ desired extension.
 		ghc -o $stem $stem.lhs 2>&1 | sed 's,\.lhs,.ℓhs,'
 
 *Ruby*
+
+Similar to Haskell, starting with these operators in \*.ℛℬ files.  
+I haven’t yet delved into Ruby as deeply as I would like.  
+
+	s,=[?],==,g
+	s,¬,!,g
+	s,–,-,g
+	s,⇐,=,g
+	s,−,-,g
+	s,≠,!=,g
+	s,≤,<=,g
+	s,≥,>=,g
+	s,⋀,\&\&,g
+	s,⋁,||,g
